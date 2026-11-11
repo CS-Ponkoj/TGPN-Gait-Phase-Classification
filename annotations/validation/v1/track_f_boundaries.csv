@@ -1,0 +1,311 @@
+dataset,subject_id,sequence_id,cycle_id,initial_contact_frame,mid_stance_frame,terminal_stance_frame,swing_frame,next_initial_contact_frame,status,annotator_id,confidence,notes
+casia_c,casia_c:001,casia_c:001:fn03,c01,61,65,73,78,86,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fn03,c02,73,78,86,90,99,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fs01,c01,59,64,72,77,86,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fs01,c02,72,77,86,91,100,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fs01,c03,86,91,100,105,114,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fq01,c01,56,60,66,70,78,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fq01,c02,66,70,78,81,89,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fb00,c01,59,63,72,76,84,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:001,casia_c:001:fb00,c02,72,76,84,88,96,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fn03,c01,46,48,56,59,69,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fn03,c02,56,59,69,72,81,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fn03,c03,69,72,81,85,94,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fs01,c01,52,56,66,70,82,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fs01,c02,66,70,82,87,96,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fs01,c03,82,87,96,100,112,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fs01,c04,96,100,112,117,126,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fq00,c01,42,45,51,55,64,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fq00,c02,51,55,64,67,75,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fb00,c01,45,47,55,59,69,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fb00,c02,55,59,69,72,81,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:020,casia_c:020:fb00,c03,69,72,81,84,94,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fn00,c01,42,46,55,60,68,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fn00,c02,55,60,68,72,81,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fs00,c01,51,55,64,68,79,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fs00,c02,64,68,79,83,93,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fs00,c03,79,83,93,98,108,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fq01,c01,39,41,50,53,62,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fq01,c02,50,53,62,66,74,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fb01,c01,42,45,55,58,68,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:021,casia_c:021:fb01,c02,55,58,68,71,81,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fn02,c01,54,57,66,69,79,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fn02,c02,66,69,79,82,91,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fs00,c01,59,63,73,77,88,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fs00,c02,73,77,88,92,102,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fs00,c03,88,92,102,106,116,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fq01,c01,51,54,63,66,75,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fq01,c02,63,66,75,77,87,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fb01,c01,59,62,71,74,83,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:026,casia_c:026:fb01,c02,71,74,83,87,96,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fn00,c01,34,39,47,51,60,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fn00,c02,47,51,60,64,73,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fn00,c03,60,64,73,77,87,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fs01,c01,52,57,67,72,83,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fs01,c02,67,72,83,88,99,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fs01,c03,83,88,99,104,115,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fq00,c01,106,109,118,122,130,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fq00,c02,118,122,130,133,142,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fb00,c01,52,56,65,69,79,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:028,casia_c:028:fb00,c02,65,69,79,83,92,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fn01,c01,47,51,60,65,74,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fn01,c02,60,65,74,78,87,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fn01,c03,74,78,87,91,100,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fs00,c01,44,49,58,63,73,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fs00,c02,58,63,73,77,87,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fs00,c03,73,77,87,92,102,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fs00,c04,87,92,102,106,117,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fq00,c01,32,35,45,48,57,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fq00,c02,45,48,57,60,68,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fb01,c01,44,48,57,61,70,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fb01,c02,57,61,70,74,83,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:029,casia_c:029:fb01,c03,70,74,83,87,96,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:033,casia_c:033:fn02,c01,53,56,65,69,78,annotated,claude_ai_v1,low,terminal_stance uses contact k+1 fallback; heel rise not visible at sheet resolution
+casia_c,casia_c:033,casia_c:033:fs00,c01,56,62,72,78,88,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:033,casia_c:033:fs00,c02,72,78,88,94,104,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:033,casia_c:033:fs00,c03,88,94,104,110,120,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:033,casia_c:033:fq00,c01,42,45,53,56,64,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:033,casia_c:033:fb01,c01,48,52,61,65,74,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:033,casia_c:033:fb01,c02,61,65,74,78,87,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fn03,c01,66,69,78,81,90,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fn03,c02,78,81,90,93,102,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fs00,c01,64,68,77,82,90,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fs00,c02,77,82,90,95,104,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fs00,c03,90,95,104,108,117,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fs00,c04,104,108,117,121,,excluded,claude_ai_v1,,unresolvable contact (window 129-131) inside stride; feet fragmented 56-82
+casia_c,casia_c:034,casia_c:034:fq01,c01,,50,57,60,69,excluded,claude_ai_v1,,unresolvable contact (window 44-46) inside stride; lower legs fragmented 41-60
+casia_c,casia_c:034,casia_c:034:fq01,c02,57,60,69,72,81,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fq01,c03,69,72,81,84,93,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fb01,c01,59,64,71,76,83,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:034,casia_c:034:fb01,c02,71,76,83,87,95,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fn03,c01,47,53,59,65,71,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fn03,c02,59,65,71,77,83,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fs01,c01,57,62,70,75,84,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fs01,c02,70,75,84,91,98,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fs01,c03,84,91,98,103,,excluded,claude_ai_v1,,unresolvable contact (window 111-113) inside stride; shins missing
+casia_c,casia_c:047,casia_c:047:fq01,c01,41,43,51,53,63,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fb00,c01,47,50,59,62,71,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:047,casia_c:047:fb00,c02,59,62,71,74,83,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fn01,c01,18,23,31,36,44,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fn01,c02,31,36,44,49,57,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fs00,c01,18,24,33,41,48,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fs00,c02,33,41,48,55,64,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fs00,c03,48,55,64,71,79,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fq00,c01,13,18,26,32,39,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fq00,c02,26,32,39,45,52,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fb01,c01,17,23,32,40,47,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fb01,c02,32,40,47,52,60,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:051,casia_c:051:fb01,c03,47,52,60,67,74,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:053,casia_c:053:fn02,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 19-21), opposite_toe_off (window 22-24), contact (window 32-34), opposite_toe_off (window 35-37), contact (window 45-47) inside stride; feet missing from silhouette (legs end above ground line)"
+casia_c,casia_c:053,casia_c:053:fn02,c02,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 32-34), opposite_toe_off (window 35-37), contact (window 45-47), opposite_toe_off (window 48-50), contact (window 58-60) inside stride; feet missing from silhouette (legs end above ground line)"
+casia_c,casia_c:053,casia_c:053:fs00,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 21-23), opposite_toe_off (window 25-27), contact (window 38-40), opposite_toe_off (window 42-44), contact (window 55-57) inside stride; feet missing (only occasional front toe tip)"
+casia_c,casia_c:053,casia_c:053:fs00,c02,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 38-40), opposite_toe_off (window 42-44), contact (window 55-57), opposite_toe_off (window 59-61), contact (window 72-74) inside stride; feet missing (only occasional front toe tip)"
+casia_c,casia_c:053,casia_c:053:fs00,c03,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 55-57), opposite_toe_off (window 59-61), contact (window 72-74), opposite_toe_off (window 76-78), contact (window 89-91) inside stride; feet missing (only occasional front toe tip)"
+casia_c,casia_c:053,casia_c:053:fq01,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 20-22), opposite_toe_off (window 24-26), contact (window 33-35), opposite_toe_off (window 37-39), contact (window 45-47) inside stride; feet missing"
+casia_c,casia_c:053,casia_c:053:fb01,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 18-20), opposite_toe_off (window 22-24), contact (window 31-33), opposite_toe_off (window 35-37), contact (window 44-46) inside stride; feet missing"
+casia_c,casia_c:053,casia_c:053:fb01,c02,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 31-33), opposite_toe_off (window 35-37), contact (window 44-46), opposite_toe_off (window 48-50), contact (window 58-60) inside stride; feet missing"
+casia_c,casia_c:063,casia_c:063:fn01,c01,53,58,66,71,79,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:063,casia_c:063:fn01,c02,66,71,79,84,93,annotated,claude_ai_v1,medium,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:063,casia_c:063:fq01,c01,51,55,63,67,75,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:063,casia_c:063:fb01,c01,70,75,84,89,98,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:063,casia_c:063:fb01,c02,84,89,98,103,112,annotated,claude_ai_v1,low,"terminal_stance = contact k+1 fallback (heel rise not visible), low"
+casia_c,casia_c:066,casia_c:066:fn01,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 37-41), opposite_toe_off (window 41-45), contact (window 50-54), opposite_toe_off (window 54-58), contact (window 63-67) inside stride; legs fully hidden by long coat"
+casia_c,casia_c:066,casia_c:066:fn01,c02,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 50-54), opposite_toe_off (window 54-58), contact (window 63-67), opposite_toe_off (window 67-71), contact (window 76-80) inside stride; legs fully hidden by long coat"
+casia_c,casia_c:066,casia_c:066:fn01,c03,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 63-67), opposite_toe_off (window 67-71), contact (window 76-80), opposite_toe_off (window 80-84), contact (window 88-92) inside stride; legs fully hidden by long coat"
+casia_c,casia_c:066,casia_c:066:fs01,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 58-62), opposite_toe_off (window 62-66), contact (window 72-76), opposite_toe_off (window 76-80), contact (window 86-90) inside stride; legs fully hidden by long coat"
+casia_c,casia_c:066,casia_c:066:fs01,c02,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 72-76), opposite_toe_off (window 76-80), contact (window 86-90), opposite_toe_off (window 90-94), contact (window 100-104) inside stride; legs fully hidden by long coat"
+casia_c,casia_c:066,casia_c:066:fq01,c01,,,,,,excluded,claude_ai_v1,,"unresolvable contact (window 55-58), opposite_toe_off (window 58-62), contact (window 67-70), opposite_toe_off (window 70-74), contact (window 79-82) inside stride; legs fully hidden by long coat"
+casia_c,casia_c:078,casia_c:078:fn00,c01,73,76,87,91,100,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fn00,c02,87,91,100,105,113,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fn00,c03,100,105,113,119,126,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fn00,c04,113,119,126,132,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:078,casia_c:078:fs01,c01,63,67,77,82,92,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fs01,c02,77,82,92,97,107,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fs01,c03,92,97,107,112,122,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fs01,c04,107,112,122,127,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:078,casia_c:078:fq01,c01,57,59,67,70,79,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fq01,c02,67,70,79,81,91,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fq01,c03,79,81,91,93,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:078,casia_c:078:fb00,c01,87,90,98,101,111,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:078,casia_c:078:fb00,c02,98,101,111,113,121,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fn02,c01,95,99,107,111,120,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fn02,c02,107,111,120,124,133,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fn02,c03,120,124,133,138,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:088,casia_c:088:fs00,c01,101,105,115,119,130,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fs00,c02,115,119,130,134,144,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fs00,c03,130,134,144,148,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:088,casia_c:088:fq01,c01,89,91,100,103,112,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fq01,c02,100,103,112,115,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:088,casia_c:088:fb00,c01,88,91,100,104,114,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fb00,c02,100,104,114,117,127,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:088,casia_c:088:fb00,c03,114,117,127,130,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:090,casia_c:090:fn03,c01,75,78,89,92,103,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fn03,c02,89,92,103,106,117,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fn03,c03,103,106,117,120,131,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fn03,c04,117,120,131,134,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:090,casia_c:090:fs01,c01,59,64,76,81,92,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fs01,c02,76,81,92,97,109,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fs01,c03,92,97,109,114,125,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fs01,c04,109,114,125,130,142,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fs01,c05,125,130,142,147,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:090,casia_c:090:fq01,c01,83,86,96,99,108,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fq01,c02,96,99,108,111,120,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fq01,c03,108,111,120,123,132,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fq01,c04,120,123,132,135,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:090,casia_c:090:fb01,c01,85,88,99,102,113,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fb01,c02,99,102,113,116,126,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fb01,c03,113,116,126,129,140,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:090,casia_c:090:fb01,c04,126,129,140,143,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:091,casia_c:091:fn02,c01,118,,132,136,148,excluded,claude_ai_v1,,unresolved toe-off inside stride; fragmented lower limb
+casia_c,casia_c:091,casia_c:091:fn02,c02,132,136,148,151,161,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:091,casia_c:091:fn02,c03,148,151,161,166,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:091,casia_c:091:fs00,c01,,,,,,excluded,claude_ai_v1,,unresolved contact and toe-off at start; fragmented lower limbs
+casia_c,casia_c:091,casia_c:091:fs00,c02,154,158,171,176,189,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:091,casia_c:091:fs00,c03,171,176,189,194,206,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:091,casia_c:091:fs00,c04,189,194,206,211,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:091,casia_c:091:fq00,c01,106,,118,121,130,excluded,claude_ai_v1,,unresolved toe-off inside stride; fragmented rear leg
+casia_c,casia_c:091,casia_c:091:fq00,c02,118,121,130,134,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:091,casia_c:091:fb00,c01,123,,139,142,153,excluded,claude_ai_v1,,unresolved toe-off inside stride; rear foot not segmented
+casia_c,casia_c:091,casia_c:091:fb00,c02,139,142,153,157,168,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:091,casia_c:091:fb00,c03,153,157,168,171,181,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:091,casia_c:091:fb00,c04,168,171,181,185,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:095,casia_c:095:fn02,c01,88,,102,105,114,excluded,claude_ai_v1,,unresolved toe-off inside stride; fragmented rear leg
+casia_c,casia_c:095,casia_c:095:fn02,c02,102,105,114,117,127,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:095,casia_c:095:fn02,c03,114,117,127,131,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:095,casia_c:095:fs01,c01,118,,133,137,148,excluded,claude_ai_v1,,unresolved toe-off inside stride; fragmented rear leg
+casia_c,casia_c:095,casia_c:095:fs01,c02,133,137,148,152,163,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:095,casia_c:095:fs01,c03,148,152,163,167,,excluded,claude_ai_v1,,next contact unresolvable
+casia_c,casia_c:095,casia_c:095:fq01,c01,116,,127,130,139,excluded,claude_ai_v1,,unresolved toe-off inside stride; fragmented lower limbs
+casia_c,casia_c:095,casia_c:095:fq01,c02,127,130,139,142,,excluded,claude_ai_v1,,next contact beyond sequence end
+casia_c,casia_c:095,casia_c:095:fb00,c01,85,,97,99,109,excluded,claude_ai_v1,,unresolved toe-off inside stride; fragmented rear leg
+casia_c,casia_c:095,casia_c:095:fb00,c02,97,99,109,112,122,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:095,casia_c:095:fb00,c03,109,112,122,126,,excluded,claude_ai_v1,,next contact unresolvable
+casia_c,casia_c:102,casia_c:102:fn01,c01,21,23,34,36,47,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fn01,c02,34,36,47,50,61,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fs00,c01,,,44,48,60,excluded,claude_ai_v1,,IC and MS unresolvable (fragmented)
+casia_c,casia_c:102,casia_c:102:fs00,c02,44,48,60,63,79,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fs00,c03,60,63,79,84,98,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fs00,c04,79,84,98,101,116,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fq01,c01,18,22,31,32,43,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fb00,c01,21,25,35,37,48,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:102,casia_c:102:fb00,c02,35,37,48,50,62,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fn02,c01,31,35,44,47,57,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fn02,c02,44,47,57,60,70,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fs00,c01,38,42,52,56,69,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fs00,c02,52,56,69,72,84,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fs00,c03,69,72,84,87,101,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fq01,c01,25,28,38,40,50,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fb01,c01,29,32,41,43,55,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:107,casia_c:107:fb01,c02,41,43,55,57,68,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fn02,c01,21,25,35,38,47,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fn02,c02,35,38,47,49,,excluded,claude_ai_v1,,next contact unresolvable (shoe not segmented)
+casia_c,casia_c:108,casia_c:108:fn02,c03,47,49,,,,excluded,claude_ai_v1,,"k+1 contact, swing and next contact unresolvable"
+casia_c,casia_c:108,casia_c:108:fs01,c01,24,30,41,47,57,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fs01,c02,41,47,57,60,74,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fs01,c03,57,60,74,78,88,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fs01,c04,74,78,88,,,excluded,claude_ai_v1,,swing and next contact unresolvable
+casia_c,casia_c:108,casia_c:108:fq01,c01,21,23,33,35,45,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fq01,c02,33,35,45,47,,excluded,claude_ai_v1,,next contact unresolvable
+casia_c,casia_c:108,casia_c:108:fb00,c01,22,25,35,37,48,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:108,casia_c:108:fb00,c02,35,37,48,50,,excluded,claude_ai_v1,,next contact unresolvable
+casia_c,casia_c:110,casia_c:110:fn00,c01,23,27,37,42,51,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fn00,c02,37,42,51,56,65,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fn00,c03,51,56,65,70,80,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fs00,c01,14,22,,,53,excluded,claude_ai_v1,,k+1 contact and swing in corrupted frames
+casia_c,casia_c:110,casia_c:110:fs00,c02,,,53,56,68,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:110,casia_c:110:fs00,c03,53,56,68,71,85,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fs00,c04,68,71,85,90,102,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fq01,c01,,,34,38,47,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:110,casia_c:110:fq01,c02,34,38,47,51,59,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fb00,c01,,,37,39,49,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:110,casia_c:110:fb00,c02,37,39,49,53,63,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:110,casia_c:110:fb00,c03,49,53,63,67,77,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:115,casia_c:115:fn00,c01,,,35,40,48,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:115,casia_c:115:fn00,c02,35,40,48,51,61,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:115,casia_c:115:fs01,c01,17,22,,,47,excluded,claude_ai_v1,,k+1 contact and swing in corrupted frames
+casia_c,casia_c:115,casia_c:115:fs01,c02,,,47,52,62,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:115,casia_c:115:fs01,c03,47,52,62,65,76,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:115,casia_c:115:fs01,c04,62,65,76,80,90,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:115,casia_c:115:fq00,c01,19,,31,35,44,excluded,claude_ai_v1,,MS in corrupted frames
+casia_c,casia_c:115,casia_c:115:fq00,c02,31,35,44,47,56,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:115,casia_c:115:fb00,c01,20,,33,37,46,excluded,claude_ai_v1,,MS in corrupted frames
+casia_c,casia_c:115,casia_c:115:fb00,c02,33,37,46,49,59,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:124,casia_c:124:fn03,c01,,,33,35,,excluded,claude_ai_v1,,IC/MS corrupted and next contact unresolvable
+casia_c,casia_c:124,casia_c:124:fn03,c02,33,35,,46,58,excluded,claude_ai_v1,,"k+1 contact unresolvable (fragmented, shadows)"
+casia_c,casia_c:124,casia_c:124:fs00,c01,,,38,43,52,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:124,casia_c:124:fs00,c02,38,43,52,55,67,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:124,casia_c:124:fs00,c03,52,55,67,70,82,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:124,casia_c:124:fs00,c04,67,70,82,88,,excluded,claude_ai_v1,,next contact unresolvable
+casia_c,casia_c:124,casia_c:124:fq01,c01,,,34,39,46,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:124,casia_c:124:fq01,c02,34,39,46,48,59,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:124,casia_c:124:fb00,c01,,,39,42,52,excluded,claude_ai_v1,,IC and MS in corrupted frames
+casia_c,casia_c:124,casia_c:124:fb00,c02,39,42,52,54,66,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:129,casia_c:129:fn03,c01,21,25,34,36,46,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:129,casia_c:129:fn03,c02,34,36,46,49,59,annotated,claude_ai_v1,low,terminal_stance set to contact k+1 (heel rise not visible)
+casia_c,casia_c:129,casia_c:129:fs00,c01,,,,,,excluded,claude_ai_v1,,unresolved events in stride (contacts ~20 and toe-off ~27)
+casia_c,casia_c:129,casia_c:129:fs00,c02,37,41,49,56,62,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:129,casia_c:129:fs00,c03,49,56,62,67,77,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:129,casia_c:129:fq01,c01,20,25,31,36,44,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:129,casia_c:129:fq01,c02,31,36,44,46,55,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; contact 44 and toe-off 46 low
+casia_c,casia_c:129,casia_c:129:fb01,c01,,,,,,excluded,claude_ai_v1,,unresolved contact ~21 and toe-off ~25 inside stride
+casia_c,casia_c:129,casia_c:129:fb01,c02,32,36,45,49,58,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:131,casia_c:131:fn02,c01,17,21,30,35,43,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:131,casia_c:131:fn02,c02,30,35,43,47,56,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:131,casia_c:131:fn02,c03,43,47,56,59,69,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:131,casia_c:131:fs01,c01,12,16,25,30,38,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; legs fragmented 17-20
+casia_c,casia_c:131,casia_c:131:fs01,c02,25,30,38,42,52,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; legs fragmented 31-34
+casia_c,casia_c:131,casia_c:131:fs01,c03,38,42,52,55,65,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:131,casia_c:131:fq00,c01,16,21,29,33,42,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 22-25
+casia_c,casia_c:131,casia_c:131:fq00,c02,29,33,42,45,54,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 34-40
+casia_c,casia_c:131,casia_c:131:fb01,c01,16,20,30,34,43,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 22-27
+casia_c,casia_c:131,casia_c:131:fb01,c02,30,34,43,46,55,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 35-39
+casia_c,casia_c:131,casia_c:131:fb01,c03,43,46,55,57,68,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:136,casia_c:136:fn03,c01,22,25,36,39,50,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; legs fragmented 28-31
+casia_c,casia_c:136,casia_c:136:fn03,c02,36,39,50,53,63,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:136,casia_c:136:fs00,c01,,,,,,excluded,claude_ai_v1,,unresolved toe-off ~27 inside stride from contact 23
+casia_c,casia_c:136,casia_c:136:fs00,c02,39,42,54,57,69,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:136,casia_c:136:fs00,c03,54,57,69,73,85,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:136,casia_c:136:fs00,c04,69,73,85,90,99,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:136,casia_c:136:fq01,c01,18,21,32,35,45,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 23-28
+casia_c,casia_c:136,casia_c:136:fq01,c02,32,35,45,47,58,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:136,casia_c:136:fb01,c01,22,26,36,39,48,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 26-33
+casia_c,casia_c:136,casia_c:136:fb01,c02,36,39,48,50,62,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; fragmented 38-42
+casia_c,casia_c:136,casia_c:136:fb01,c03,48,50,62,67,75,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:142,casia_c:142:fn02,c01,17,21,29,34,41,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:142,casia_c:142:fn02,c02,29,34,41,46,54,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 36-48
+casia_c,casia_c:142,casia_c:142:fn02,c03,,,,,,excluded,claude_ai_v1,,unresolved toe-off ~58 inside stride 41-66
+casia_c,casia_c:142,casia_c:142:fs00,c01,30,34,45,50,61,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:142,casia_c:142:fs00,c02,,,,,,excluded,claude_ai_v1,,unresolved toe-off ~65 inside stride 45-77
+casia_c,casia_c:142,casia_c:142:fs00,c03,,,,,,excluded,claude_ai_v1,,unresolved toe-off ~65 inside stride 61-92
+casia_c,casia_c:142,casia_c:142:fq00,c01,15,20,27,30,38,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:142,casia_c:142:fq00,c02,27,30,38,41,49,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 32-45
+casia_c,casia_c:142,casia_c:142:fb00,c01,17,22,29,33,43,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:142,casia_c:142:fb00,c02,29,33,43,46,55,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; feet fragmented 36-40
+casia_c,casia_c:142,casia_c:142:fb00,c03,,,,,,excluded,claude_ai_v1,,unresolved toe-off ~59 inside stride 43-68
+casia_c,casia_c:143,casia_c:143:fn02,c01,12,17,25,29,38,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fn02,c02,25,29,38,43,51,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fn02,c03,38,43,51,54,64,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fn02,c04,51,54,64,69,78,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fs00,c01,19,22,32,35,46,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fs00,c02,32,35,46,50,60,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fs00,c03,46,50,60,64,73,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1; frame 60 noisy
+casia_c,casia_c:143,casia_c:143:fs00,c04,60,64,73,77,87,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fq01,c01,16,20,28,32,40,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fq01,c02,28,32,40,43,51,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fq01,c03,40,43,51,54,62,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fb00,c01,15,19,27,32,41,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fb00,c02,27,32,41,45,54,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fb00,c03,41,45,54,57,66,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:143,casia_c:143:fb00,c04,54,57,66,70,79,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:152,casia_c:152:fn01,c01,,,,,,excluded,claude_ai_v1,,unresolved events inside stride from contact ~20
+casia_c,casia_c:152,casia_c:152:fn01,c02,,,,,,excluded,claude_ai_v1,,unresolved toe-offs inside stride 33-61
+casia_c,casia_c:152,casia_c:152:fn01,c03,,,,,,excluded,claude_ai_v1,,unresolved contact ~46 and toe-off ~50 inside stride
+casia_c,casia_c:152,casia_c:152:fs00,c01,,,,,,excluded,claude_ai_v1,,unresolved events inside stride from contact ~22
+casia_c,casia_c:152,casia_c:152:fs00,c02,,,,,,excluded,claude_ai_v1,,unresolved toe-off ~38 inside stride 34-49+
+casia_c,casia_c:152,casia_c:152:fs00,c03,,,,,,excluded,claude_ai_v1,,unresolved contact ~63 inside stride 49-81
+casia_c,casia_c:152,casia_c:152:fs00,c04,,,,,,excluded,claude_ai_v1,,stride from contact ~63 starts on unresolved contact
+casia_c,casia_c:152,casia_c:152:fq01,c01,,,,,,excluded,claude_ai_v1,,unresolved contact ~19 and toe-off ~22 inside stride
+casia_c,casia_c:152,casia_c:152:fq01,c02,29,31,41,43,53,annotated,claude_ai_v1,low,heel rise not visible; TS=contact k+1
+casia_c,casia_c:152,casia_c:152:fb00,c01,,,,,,excluded,claude_ai_v1,,unresolved contact ~48 inside stride from contact 34
+casia_c,casia_c:152,casia_c:152:fb00,c02,,,,,,excluded,claude_ai_v1,,stride from contact ~48 starts on unresolved contact
+casia_c,casia_c:152,casia_c:152:fb00,c03,,,,,,excluded,claude_ai_v1,,stride from contact ~62 starts on unresolved contact (segmentation failure)

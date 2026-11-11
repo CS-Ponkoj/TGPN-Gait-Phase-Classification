@@ -1,0 +1,124 @@
+sequence_id,walking_direction,frames_reviewed,track_s_annotated,track_s_unresolvable,track_f_annotated,track_f_excluded,quality_notes
+casia_c:001:fn03,right,59,8,0,2,0,clean silhouette; legs crossing at end so no contact in 107-109
+casia_c:001:fs01,right,76,10,0,3,0,clean silhouette
+casia_c:001:fq01,right,47,8,0,2,0,clean silhouette
+casia_c:001:fb00,right,56,8,0,2,0,clean silhouette
+casia_c:020:fn03,right,64,10,0,3,0,lower legs (dark trousers) missing; shoes visible as separate blobs
+casia_c:020:fs01,right,87,11,0,4,0,lower legs missing; shoes visible; toe-off after 126 falls past usable range
+casia_c:020:fq00,right,50,8,0,2,0,lower legs missing; shoes visible
+casia_c:020:fb00,right,60,10,0,3,0,lower legs missing; shoes visible
+casia_c:021:fn00,right,59,8,0,2,0,clean; minor torso fragmentation only
+casia_c:021:fs00,right,69,9,0,3,0,clean silhouette
+casia_c:021:fq01,right,53,8,0,2,0,knee-level fragmentation early in sequence
+casia_c:021:fb01,right,56,8,0,2,0,clean silhouette
+casia_c:026:fn02,right,53,8,0,2,0,clean silhouette
+casia_c:026:fs00,right,74,10,0,3,0,clean silhouette
+casia_c:026:fq01,right,48,8,0,2,0,clean silhouette
+casia_c:026:fb01,right,52,7,0,2,0,clean; toe-off near 50 lies in skipped first frames
+casia_c:028:fn00,right,72,10,0,3,0,clean silhouette
+casia_c:028:fs01,right,84,10,0,3,0,clean; slow gait (steps about 16 frames)
+casia_c:028:fq00,right,53,8,0,2,0,clean silhouette
+casia_c:028:fb00,right,63,8,0,2,0,clean; toe-off near 43 lies in skipped first frames
+casia_c:029:fn01,right,72,10,0,3,0,wide flared trousers cover feet; only toe tips visible
+casia_c:029:fs00,right,89,12,0,4,0,wide flared trousers cover feet; only toe tips visible
+casia_c:029:fq00,right,52,8,0,2,0,wide flared trousers cover feet; only toe tips visible
+casia_c:029:fb01,right,69,10,0,3,0,wide flared trousers cover feet; only toe tips visible
+casia_c:033:fn02,right,51,7,0,1,0,clean; subject enters at left edge
+casia_c:033:fs00,right,79,9,0,3,0,clean silhouette; regular 16-frame steps
+casia_c:033:fq00,right,40,6,0,1,0,clean; fast pace 11-frame steps
+casia_c:033:fb01,right,53,7,0,2,0,clean; 13-frame steps
+casia_c:034:fn03,right,62,8,1,2,0,shins/feet fragmented in early frames (50-60)
+casia_c:034:fs00,right,77,10,1,3,1,feet fragmented 56-82; sequence-end contact unresolvable
+casia_c:034:fq01,right,59,9,1,2,1,lower legs fragmented 41-60; first contact unplaceable
+casia_c:034:fb01,right,60,9,0,2,0,lower legs fragmented 47-66
+casia_c:047:fn03,right,56,8,0,2,0,shins missing (shorts gap); feet visible as blobs; toe-off timing ambiguous because rear toe drags
+casia_c:047:fs01,right,74,8,1,2,1,shins missing; rear toe drags so toe-off low; front foot clipped at frame edge from 113
+casia_c:047:fq01,right,42,6,0,1,0,"shins missing; fast pace, short double support"
+casia_c:047:fb00,right,54,8,0,2,0,shins missing; feet float above dashed ground line late in sequence (used stance foot as reference); toe-off low
+casia_c:051:fn01,right,57,8,0,2,0,noisy silhouette with holes; silhouette vertical position jumps (feet above ground line in some frames)
+casia_c:051:fs00,right,82,10,0,3,0,noisy silhouette with holes; segmentation smear at feet in frame 33; vertical drift of silhouette
+casia_c:051:fq00,right,54,8,0,2,0,noisy silhouette with holes; first contact near sequence start
+casia_c:051:fb01,right,69,9,0,3,0,noisy silhouette; frame 42 empty; front foot clipped at tile edge from 75
+casia_c:053:fn02,right,57,0,8,0,2,feet missing from silhouette (legs end above ground line); heavy fragmentation; all events unresolvable
+casia_c:053:fs00,right,90,0,10,0,3,feet missing (only occasional front toe tip); heavy fragmentation; all events unresolvable
+casia_c:053:fq01,right,49,0,6,0,1,feet missing; heavy fragmentation; all events unresolvable
+casia_c:053:fb01,right,60,0,8,0,2,feet missing; heavy fragmentation; all events unresolvable
+casia_c:063:fn01,right,70,9,0,2,0,fragmented upper legs early (36-50); feet mostly clean after 50
+casia_c:063:fq01,right,48,7,0,1,0,fragmented early frames 39-46; otherwise clean
+casia_c:063:fb01,right,69,9,0,2,0,fragmented early frames 55-62; otherwise clean; wide trousers blur toe-off
+casia_c:066:fn01,right,64,0,10,0,3,legs fully hidden by long coat; windows approximate from coat hem width; all events unresolvable
+casia_c:066:fs01,right,72,0,8,0,2,legs fully hidden by long coat; windows approximate from coat hem width; all events unresolvable
+casia_c:066:fq01,right,51,0,6,0,1,legs fully hidden by long coat; windows approximate from coat hem width; all events unresolvable
+casia_c:066:fb01,unclear,56,0,0,0,0,long coat hides legs; no foot reaches ground line; nothing annotatable
+casia_c:073:fn03,right,63,0,5,0,0,long coat; shins missing; only one shoe intermittently segmented; foot identity and ground contact unreliable
+casia_c:073:fs00,right,88,0,4,0,0,long coat; shins missing; only one shoe intermittently segmented
+casia_c:073:fq00,right,56,0,4,0,0,long coat; shins missing; only one shoe intermittently segmented
+casia_c:073:fb01,right,66,0,4,0,0,long coat; shins missing; only one shoe intermittently segmented
+casia_c:078:fn00,right,67,10,0,3,1,clean silhouette; feet sit slightly above dashed line
+casia_c:078:fs01,right,78,10,0,3,1,clean silhouette; slow walk
+casia_c:078:fq01,right,50,8,0,2,1,clean; fast walk; short double support
+casia_c:078:fb00,right,51,8,0,2,0,mostly clean; front shoe faint in some frames
+casia_c:088:fn02,right,62,8,0,2,1,clean; events judged by foot motion since dashed line sits below feet
+casia_c:088:fs00,right,70,9,0,2,1,clean; slow walk
+casia_c:088:fq01,right,48,6,0,1,1,clean; fast walk
+casia_c:088:fb00,right,57,8,0,2,1,clean
+casia_c:090:fn03,right,80,10,0,3,1,wide trousers hide feet; events placed by foot motion and periodicity; all low
+casia_c:090:fs01,right,104,12,0,4,1,wide trousers hide feet; slow walk; contacts low
+casia_c:090:fq01,right,64,10,0,3,1,wide trousers hide feet; fast walk
+casia_c:090:fb01,right,75,10,0,3,1,wide trousers hide feet; all low
+casia_c:091:fn02,right,79,7,3,1,2,frames 95-118 heavily fragmented; later frames usable with holes
+casia_c:091:fs00,right,103,8,2,2,2,frames 118-145 heavily fragmented; later usable
+casia_c:091:fq00,right,47,5,1,0,2,fragmented early; few complete strides
+casia_c:091:fb00,right,73,9,1,2,2,"early frames fragmented, rear foot missing"
+casia_c:095:fn02,right,57,7,1,1,2,fragmented limbs with holes; dark shoes; all low
+casia_c:095:fs01,right,79,7,2,1,2,heavily fragmented; dark shoes; all low
+casia_c:095:fq01,right,48,5,3,0,2,heavily fragmented; dark shoes
+casia_c:095:fb00,right,55,7,2,1,2,fragmented limbs; dark shoes; all low
+casia_c:102:fn01,right,59,8,0,2,0,Fragmented IR silhouettes; feet sit above dashed ground line; legs crossing at end.
+casia_c:102:fs00,right,109,9,3,3,1,"Slow walk, steps ~16-19 frames; fragmented feet; first and last steps unresolved."
+casia_c:102:fq01,right,44,6,0,1,0,Fast walk; fragmented feet; steps ~13 frames.
+casia_c:102:fb00,right,61,8,0,2,0,Subject entering in first frames; fragmented feet.
+casia_c:107:fn02,right,68,9,0,2,0,Heavily fragmented lower limbs throughout; all contacts low confidence.
+casia_c:107:fs00,right,93,10,1,3,0,Slow walk; fragmented silhouettes and feet drift above ground line late in sequence; all events low.
+casia_c:107:fq01,right,52,6,1,1,0,Fast walk; fragmented feet.
+casia_c:107:fb01,right,63,9,0,2,0,Bag; fragmented feet; all events low.
+casia_c:108:fn02,right,70,6,3,1,2,Clean legs but dark shoes vanish in second half; feet float above dashed line late.
+casia_c:108:fs01,right,106,10,2,3,1,"Slow walk, steps ~14-17; shoes intermittently missing."
+casia_c:108:fq01,right,58,6,2,1,1,Fast walk; shoes intermittently missing.
+casia_c:108:fb00,right,69,7,1,1,1,Clean legs; shoes intermittently missing; final contact at/after frame 75 not recorded.
+casia_c:110:fn00,right,77,10,0,3,0,Frames 29-32 and 34 corrupted (inverted blocks) during leg crossing; wide trousers.
+casia_c:110:fs00,right,107,10,2,2,2,Frames 28-40 corrupted; slow walk steps ~15-17.
+casia_c:110:fq01,right,55,6,2,1,1,Frames 21-24 corrupted; otherwise clean.
+casia_c:110:fb00,right,73,8,2,2,1,Frames 22-35 corrupted; contact frames ambiguous.
+casia_c:115:fn00,right,62,6,2,1,1,Frames 19-25 corrupted; otherwise clean legs.
+casia_c:115:fs01,right,87,10,2,2,2,Frames 23-35 corrupted; slow walk steps ~14-15.
+casia_c:115:fq00,right,53,7,1,1,1,Frames 20-24 corrupted; otherwise clean.
+casia_c:115:fb00,right,57,7,1,1,1,Frames 22-30 corrupted.
+casia_c:124:fn03,right,61,5,3,0,2,Frames 17-27 corrupted; heavy fragmentation and shadow blobs at feet; no defensible strides.
+casia_c:124:fs00,right,89,8,3,2,2,Frames 21-35 corrupted; fragmented feet with shadows afterwards.
+casia_c:124:fq01,right,55,6,2,1,1,Frames 15-25 corrupted; shadows under feet.
+casia_c:124:fb00,right,62,6,2,1,1,Frames 16-31 corrupted; rear leg fragmented 32-41; shadows.
+casia_c:129:fn03,right,57,8,0,2,0,Fragmented feet with ground shadows; all events low.
+casia_c:129:fs00,right,72,8,2,2,1,fragmented feet early (13-32); ground strip artifacts; feet float above dashed line
+casia_c:129:fq01,right,47,7,0,2,0,oblique view; feet partly fragmented; ground strip artifacts; feet above dashed line
+casia_c:129:fb01,right,58,6,2,1,1,legs fragmented 12-30; ground strip artifacts merge feet
+casia_c:131:fn02,right,66,10,0,3,0,feet float above dashed line; ground strip artifacts; fragmented shanks 23-27 and 36-39
+casia_c:131:fs01,right,68,10,0,3,0,heavy fragmentation of shanks throughout; ground strip artifacts; all events low confidence
+casia_c:131:fq00,right,55,8,0,2,0,oblique view; fragmented shanks; ground strip artifacts; all events low confidence
+casia_c:131:fb01,right,65,10,0,3,0,fragmented shanks; ground strip artifacts; all events low confidence
+casia_c:136:fn03,right,63,8,0,2,0,reasonable silhouettes mid-sequence; fragmented 14-16 and 28-31; ground strip artifacts
+casia_c:136:fs00,right,90,10,1,3,1,legs fragmented 28-48; ground strip artifacts; steps ~15 frames
+casia_c:136:fq01,right,58,8,0,2,0,oblique view; fragmented feet 23-28 and 36-39; ground strip artifacts
+casia_c:136:fb01,right,69,9,0,3,0,fragmented legs 26-42; ground strip artifacts; toe-off ~78-80 not placeable near end
+casia_c:142:fn02,right,62,8,2,2,1,clean legs 12-31; feet fragmented into blobs from 35 on; ground strip artifacts
+casia_c:142:fs00,right,88,9,2,1,2,clean silhouettes 15-50; feet fragmented into blobs 51-102; ground strip artifacts
+casia_c:142:fq00,right,47,8,0,2,0,oblique view; clean legs 11-30; feet fragmented into blobs after 32
+casia_c:142:fb00,right,63,8,1,2,1,clean legs 12-34; feet fragmented after 44; ground strip artifacts
+casia_c:143:fn02,right,80,12,0,4,0,clean silhouettes; feet consistently above dashed line; heel rise not separable (trouser silhouette)
+casia_c:143:fs00,right,88,12,0,4,0,clean silhouettes; feet above dashed line; frame 60 has segmentation noise; heel rise not separable
+casia_c:143:fq01,right,62,10,0,3,0,oblique view; clean silhouettes; feet above dashed line; steps ~11-12 frames
+casia_c:143:fb00,right,77,12,0,4,0,clean silhouettes; feet above dashed line; heel rise not separable
+casia_c:152:fn01,right,69,5,5,0,3,legs missing 14-30; heavy noise 45-50; ground strip artifacts; only last steps placeable
+casia_c:152:fs00,right,100,7,5,0,4,legs fragmented 12-45; heavy segmentation noise 58-67; ground strip artifacts
+casia_c:152:fq01,right,53,6,2,1,1,oblique view; legs missing 11-20; fragmented shanks; ground strip artifacts
+casia_c:152:fb00,right,68,4,4,0,3,legs missing 22-30; feet fragmented 31-53; segmentation failure (white box) 56-68

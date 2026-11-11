@@ -31,6 +31,10 @@ venv/
 *.pt
 *.pth
 
+# Annotation sheets render licensed CASIA imagery
+/annotations/validation/*/contact_sheets/
+/annotations/validation/*/review_sheets/
+
 # Large archives
 *.zip
 

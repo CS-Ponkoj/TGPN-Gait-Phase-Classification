@@ -1,0 +1,1411 @@
+sequence_id,item_type,item_id,decision,original_frame,proposed_frame,reason,reviewer_id
+casia_c:001:fn03,sequence,-,flag,,,"calibration example, excluded from analysis",claude_ai_review_v1
+casia_c:001:fs01,event,e01,accept,59,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e02,accept,64,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e03,accept,72,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e04,accept,77,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e05,accept,86,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e06,accept,91,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e07,accept,100,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e08,accept,105,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e09,accept,114,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,event,e10,accept,118,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fs01,stride,c01,accept,59,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:001:fs01,stride,c02,accept,72,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:001:fs01,stride,c03,accept,86,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:001:fq01,event,e01,accept,56,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e02,accept,60,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e03,accept,66,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e04,accept,70,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e05,accept,78,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e06,accept,81,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e07,accept,89,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,event,e08,accept,93,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fq01,stride,c01,accept,56,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:001:fq01,stride,c02,accept,66,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:001:fb00,event,e01,accept,59,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e02,accept,63,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e03,accept,72,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e04,accept,76,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e05,accept,84,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e06,accept,88,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e07,accept,96,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,event,e08,accept,100,,agree within +-1 frame,claude_ai_review_v1
+casia_c:001:fb00,stride,c01,accept,59,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:001:fb00,stride,c02,accept,72,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fn03,event,e01,accept,46,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e02,accept,48,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e03,accept,56,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e04,accept,59,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e05,accept,69,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e06,accept,72,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e07,accept,81,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e08,accept,85,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e09,accept,94,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,event,e10,accept,98,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fn03,stride,c01,accept,46,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fn03,stride,c02,accept,56,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fn03,stride,c03,accept,69,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fs01,event,e01,accept,52,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e02,accept,56,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e03,accept,66,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e04,accept,70,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e05,accept,82,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e06,accept,87,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e07,accept,96,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e08,accept,100,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e09,accept,112,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e10,accept,117,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fs01,event,e11,flag,126,,front shoe flat at 125-126 but from 127 the front-foot blob is raised/misshapen (segmentation change near sequence end); contact plausible 125-126 but cannot confirm within +-1,claude_ai_review_v1
+casia_c:020:fs01,stride,c01,accept,52,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fs01,stride,c02,accept,66,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fs01,stride,c03,accept,82,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:020:fs01,stride,c04,flag,96,,next_initial_contact 126 is the flagged e11; contact frame depends on flagged event; recheck,claude_ai_review_v1
+casia_c:020:fq00,event,e01,accept,42,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,event,e02,accept,45,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,event,e03,flag,51,52,"front shoe at ground level at 51 but still advancing until 53; heel-strike pose at 52, flat at 53; contact likely 52-53 (also evens steps 42/51/64 to ~11 each)",claude_ai_review_v1
+casia_c:020:fq00,event,e04,accept,55,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,event,e05,accept,64,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,event,e06,accept,67,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,event,e07,accept,75,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,event,e08,accept,78,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fq00,stride,c01,flag,42,,terminal_stance 51 is the flagged e03 (likely 52-53),claude_ai_review_v1
+casia_c:020:fq00,stride,c02,flag,51,,initial_contact 51 is the flagged e03 (likely 52-53),claude_ai_review_v1
+casia_c:020:fb00,event,e01,accept,45,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e02,accept,47,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e03,flag,55,56,"front shoe low at 55 but still advancing to 57; heel-strike pose at 56, flat at 57; contact likely 56-57 (steps 45/55/69 are uneven 10 vs 14)",claude_ai_review_v1
+casia_c:020:fb00,event,e04,accept,59,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e05,accept,69,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e06,accept,72,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e07,accept,81,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e08,accept,84,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e09,accept,94,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,event,e10,accept,97,,agree within +-1 frame,claude_ai_review_v1
+casia_c:020:fb00,stride,c01,flag,45,,terminal_stance 55 is the flagged e03 (likely 56-57),claude_ai_review_v1
+casia_c:020:fb00,stride,c02,flag,55,,initial_contact 55 is the flagged e03 (likely 56-57),claude_ai_review_v1
+casia_c:020:fb00,stride,c03,accept,69,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fn00,event,e01,accept,42,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e02,accept,46,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e03,accept,55,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e04,accept,60,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e05,accept,68,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e06,accept,72,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e07,accept,81,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,event,e08,accept,85,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fn00,stride,c01,accept,42,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fn00,stride,c02,accept,55,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fs00,event,e01,accept,51,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e02,accept,55,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e03,accept,64,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e04,accept,68,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e05,accept,79,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e06,accept,83,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e07,accept,93,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e08,accept,98,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,event,e09,accept,108,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fs00,stride,c01,accept,51,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fs00,stride,c02,accept,64,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fs00,stride,c03,accept,79,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fq01,event,e01,flag,39,,front lower leg fragmented 36-41 and the front foot never clearly reaches the ground line; 38-39 is plausible but not verifiable within +-1,claude_ai_review_v1
+casia_c:021:fq01,event,e02,accept,41,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,event,e03,accept,50,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,event,e04,accept,53,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,event,e05,accept,62,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,event,e06,accept,66,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,event,e07,accept,74,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,event,e08,accept,78,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fq01,stride,c01,flag,39,,initial_contact 39 is the flagged e01 (fragmented front foot),claude_ai_review_v1
+casia_c:021:fq01,stride,c02,accept,50,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fb01,event,e01,accept,42,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e02,accept,45,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e03,accept,55,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e04,accept,58,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e05,accept,68,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e06,accept,71,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e07,accept,81,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,event,e08,accept,85,,agree within +-1 frame,claude_ai_review_v1
+casia_c:021:fb01,stride,c01,accept,42,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:021:fb01,stride,c02,accept,55,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fn02,event,e01,accept,54,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e02,accept,57,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e03,accept,66,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e04,accept,69,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e05,accept,79,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e06,accept,82,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e07,accept,91,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,event,e08,accept,94,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fn02,stride,c01,accept,54,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fn02,stride,c02,accept,66,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fs00,event,e01,accept,59,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e02,accept,63,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e03,accept,73,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e04,accept,77,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e05,accept,88,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e06,accept,92,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e07,accept,102,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e08,accept,106,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e09,accept,116,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,event,e10,accept,120,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fs00,stride,c01,accept,59,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fs00,stride,c02,accept,73,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fs00,stride,c03,accept,88,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fq01,event,e01,accept,51,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e02,accept,54,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e03,accept,63,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e04,accept,66,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e05,accept,75,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e06,accept,77,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e07,accept,87,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,event,e08,accept,90,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fq01,stride,c01,accept,51,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fq01,stride,c02,accept,63,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fb01,event,e01,accept,59,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,event,e02,accept,62,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,event,e03,accept,71,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,event,e04,accept,74,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,event,e05,accept,83,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,event,e06,accept,87,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,event,e07,accept,96,,agree within +-1 frame,claude_ai_review_v1
+casia_c:026:fb01,stride,c01,accept,59,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:026:fb01,stride,c02,accept,71,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fn00,event,e01,correct,34,36,"annotated frame is where the swinging foot has just passed the stance foot at low clearance; it keeps advancing for ~2 more frames (heel-strike pose at +1, foot stops at +2)",claude_ai_review_v1
+casia_c:028:fn00,event,e02,accept,39,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fn00,event,e03,correct,47,49,"annotated frame is where the swinging foot has just passed the stance foot at low clearance; it keeps advancing for ~2 more frames (heel-strike pose at +1, foot stops at +2)",claude_ai_review_v1
+casia_c:028:fn00,event,e04,accept,51,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fn00,event,e05,correct,60,62,"annotated frame is where the swinging foot has just passed the stance foot at low clearance; it keeps advancing for ~2 more frames (heel-strike pose at +1, foot stops at +2)",claude_ai_review_v1
+casia_c:028:fn00,event,e06,accept,64,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fn00,event,e07,correct,73,75,"annotated frame is where the swinging foot has just passed the stance foot at low clearance; it keeps advancing for ~2 more frames (heel-strike pose at +1, foot stops at +2)",claude_ai_review_v1
+casia_c:028:fn00,event,e08,accept,77,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fn00,event,e09,correct,87,89,"annotated frame is where the swinging foot has just passed the stance foot at low clearance; it keeps advancing for ~2 more frames (heel-strike pose at +1, foot stops at +2)",claude_ai_review_v1
+casia_c:028:fn00,event,e10,accept,91,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fn00,sequence,-,flag,,,all five contacts placed ~2 frames early (swing foot at low clearance mistaken for contact); toe-offs ok; strides need re-derivation,claude_ai_review_v1
+casia_c:028:fn00,stride,c01,flag,34,,"contacts systematically ~2 frames early: proposed IC 36, TS 49, next IC 62 (MS 39 and SW 51 ok)",claude_ai_review_v1
+casia_c:028:fn00,stride,c02,flag,47,,"contacts systematically ~2 frames early: proposed IC 49, TS 62, next IC 75 (MS 51 and SW 64 ok)",claude_ai_review_v1
+casia_c:028:fn00,stride,c03,flag,60,,"contacts systematically ~2 frames early: proposed IC 62, TS 75, next IC 89 (MS 64 and SW 77 ok)",claude_ai_review_v1
+casia_c:028:fs01,event,e01,accept,52,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e02,accept,57,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e03,accept,67,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e04,accept,72,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e05,accept,83,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e06,accept,88,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e07,accept,99,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e08,accept,104,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e09,accept,115,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,event,e10,accept,120,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fs01,stride,c01,accept,52,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fs01,stride,c02,accept,67,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fs01,stride,c03,accept,83,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fq00,event,e01,accept,106,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e02,accept,109,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e03,accept,118,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e04,accept,122,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e05,accept,130,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e06,accept,133,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e07,accept,142,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,event,e08,accept,145,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fq00,stride,c01,accept,106,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fq00,stride,c02,accept,118,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fb00,event,e01,accept,52,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e02,accept,56,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e03,accept,65,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e04,accept,69,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e05,accept,79,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e06,accept,83,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e07,accept,92,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,event,e08,accept,96,,agree within +-1 frame,claude_ai_review_v1
+casia_c:028:fb00,stride,c01,accept,52,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:028:fb00,stride,c02,accept,65,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:029:fn01,event,e01,flag,47,49,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 48-49,claude_ai_review_v1
+casia_c:029:fn01,event,e02,accept,51,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,event,e03,accept,60,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,event,e04,accept,65,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,event,e05,flag,74,75,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 75-76,claude_ai_review_v1
+casia_c:029:fn01,event,e06,accept,78,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,event,e07,flag,87,88,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 88-89,claude_ai_review_v1
+casia_c:029:fn01,event,e08,accept,91,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,event,e09,accept,100,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,event,e10,accept,105,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fn01,sequence,-,flag,,,flared trousers hide heels; contacts tend to sit 1-2 frames early; toe tips visible so toe-offs ok; needs human check,claude_ai_review_v1
+casia_c:029:fn01,stride,c01,flag,47,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fn01,stride,c02,flag,60,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fn01,stride,c03,flag,74,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fs00,event,e01,flag,44,45,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 45-46,claude_ai_review_v1
+casia_c:029:fs00,event,e02,accept,49,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,event,e03,flag,58,59,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 59-60,claude_ai_review_v1
+casia_c:029:fs00,event,e04,accept,63,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,event,e05,flag,73,74,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 74-75,claude_ai_review_v1
+casia_c:029:fs00,event,e06,accept,77,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,event,e07,flag,87,88,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 88-89,claude_ai_review_v1
+casia_c:029:fs00,event,e08,accept,92,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,event,e09,flag,102,103,flared hems hide the heel; hem/toe tip keeps advancing ~1-2 frames after the annotated frame; contact likely 103-104,claude_ai_review_v1
+casia_c:029:fs00,event,e10,accept,106,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,event,e11,accept,117,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,event,e12,accept,121,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fs00,sequence,-,flag,,,flared trousers hide heels; 5 of 6 contacts look 1-2 frames early; toe-offs ok; needs human check,claude_ai_review_v1
+casia_c:029:fs00,stride,c01,flag,44,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fs00,stride,c02,flag,58,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fs00,stride,c03,flag,73,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fs00,stride,c04,flag,87,,includes flagged contact(s) under flared hems (likely 1-2 frames late vs annotation); heel rise not visible,claude_ai_review_v1
+casia_c:029:fq00,event,e01,accept,32,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e02,accept,35,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e03,accept,45,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e04,accept,48,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e05,accept,57,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e06,accept,60,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e07,accept,68,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,event,e08,accept,71,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fq00,stride,c01,accept,32,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:029:fq00,stride,c02,accept,45,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:029:fb01,event,e01,accept,44,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e02,accept,48,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e03,accept,57,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e04,accept,61,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e05,accept,70,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e06,accept,74,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e07,accept,83,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e08,accept,87,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e09,accept,96,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,event,e10,accept,100,,agree within +-1 frame,claude_ai_review_v1
+casia_c:029:fb01,stride,c01,accept,44,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:029:fb01,stride,c02,accept,57,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:029:fb01,stride,c03,accept,70,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:033:fn02,event,e01,accept,44,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,event,e02,accept,53,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,event,e03,accept,56,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,event,e04,accept,65,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,event,e05,accept,69,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,event,e06,accept,78,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,event,e07,accept,82,,agree within +-1 frame,claude_ai_review_v1
+casia_c:033:fn02,stride,c01,accept,53,,frames consistent with Track S events; alternation plausible; TS uses allowed contact k+1 fallback,claude_ai_review_v1
+casia_c:033:fs00,event,e01,accept,56,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fs00,event,e02,flag,62,64,rear toe still appears to touch ground 1-2 frames after the annotated frame (same pattern each cycle); first frame clearly above ground looks ~+1-2 (63-64),claude_ai_review_v1
+casia_c:033:fs00,event,e03,accept,72,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fs00,event,e04,flag,78,80,rear toe still appears to touch ground 1-2 frames after the annotated frame (same pattern each cycle); first frame clearly above ground looks ~+1-2 (79-80),claude_ai_review_v1
+casia_c:033:fs00,event,e05,accept,88,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fs00,event,e06,flag,94,96,rear toe still appears to touch ground 1-2 frames after the annotated frame (same pattern each cycle); first frame clearly above ground looks ~+1-2 (95-96),claude_ai_review_v1
+casia_c:033:fs00,event,e07,accept,104,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fs00,event,e08,flag,110,112,rear toe still appears to touch ground 1-2 frames after the annotated frame (same pattern each cycle); first frame clearly above ground looks ~+1-2 (111-112),claude_ai_review_v1
+casia_c:033:fs00,event,e09,accept,120,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fs00,stride,c01,accept,56,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:033:fs00,stride,c02,accept,72,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:033:fs00,stride,c03,accept,88,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:033:fq00,event,e01,accept,42,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fq00,event,e02,accept,45,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:033:fq00,event,e03,accept,53,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fq00,event,e04,accept,56,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:033:fq00,event,e05,accept,64,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fq00,event,e06,accept,67,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:033:fq00,stride,c01,accept,42,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:033:fb01,event,e01,accept,48,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,event,e02,accept,52,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,event,e03,accept,61,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,event,e04,accept,65,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,event,e05,accept,74,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,event,e06,accept,78,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,event,e07,accept,87,,contact within +-1 frame,claude_ai_review_v1
+casia_c:033:fb01,stride,c01,accept,48,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:033:fb01,stride,c02,accept,61,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fn03,event,e01,flag,,57,"rear foot is visible (fragmented) and is at stance level through 56, lifting 57-58; could be placed low-confidence ~57 rather than unresolvable",claude_ai_review_v1
+casia_c:034:fn03,event,e02,accept,66,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e03,accept,69,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e04,accept,78,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e05,accept,81,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e06,accept,90,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e07,accept,93,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e08,accept,102,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,e09,accept,105,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fn03,event,new01,add,,53,"contact: front foot blob lands and stops advancing ~53-54 (window 52-54), medium-low; fragmented but visible",claude_ai_review_v1
+casia_c:034:fn03,stride,c01,accept,66,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fn03,stride,c02,accept,78,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fs00,event,e01,accept,64,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e02,accept,68,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e03,accept,77,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e04,accept,82,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e05,accept,90,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e06,accept,95,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e07,accept,104,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e08,accept,108,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e09,accept,117,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e10,accept,121,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fs00,event,e11,accept,,,agree unresolvable: event not placeable,claude_ai_review_v1
+casia_c:034:fs00,stride,c01,accept,64,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fs00,stride,c02,accept,77,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fs00,stride,c03,accept,90,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fs00,stride,c04,accept,104,,agree excluded,claude_ai_review_v1
+casia_c:034:fq01,event,e01,flag,,47,front foot blob visible from 45 and still advancing to ~47-48 before stopping; window 44-46 looks 1-2 frames early; may be placeable low-confidence ~47,claude_ai_review_v1
+casia_c:034:fq01,event,e02,accept,50,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e03,accept,57,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e04,accept,60,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e05,accept,69,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e06,accept,72,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e07,accept,81,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e08,accept,84,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e09,accept,93,,contact within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,event,e10,accept,96,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fq01,stride,c01,flag,,,excluded only because e01 is unresolvable; if author places e01 (~47) this stride could be annotated,claude_ai_review_v1
+casia_c:034:fq01,stride,c02,accept,57,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fq01,stride,c03,accept,69,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fb01,event,e01,accept,52,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fb01,event,e02,flag,59,60,front foot reaches ground level at the annotated frame but keeps advancing ~1-2 more frames (heel-strike toe-up posture after); contact looks 1-2 frames later than annotated (60-61),claude_ai_review_v1
+casia_c:034:fb01,event,e03,accept,64,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fb01,event,e04,flag,71,72,front foot reaches ground level at the annotated frame but keeps advancing ~1-2 more frames (heel-strike toe-up posture after); contact looks 1-2 frames later than annotated (72-73),claude_ai_review_v1
+casia_c:034:fb01,event,e05,accept,76,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fb01,event,e06,flag,83,84,front foot reaches ground level at the annotated frame but keeps advancing ~1-2 more frames (heel-strike toe-up posture after); contact looks 1-2 frames later than annotated (84-85),claude_ai_review_v1
+casia_c:034:fb01,event,e07,accept,87,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fb01,event,e08,flag,95,96,front foot reaches ground level at the annotated frame but keeps advancing ~1-2 more frames (heel-strike toe-up posture after); contact looks 1-2 frames later than annotated (96-97),claude_ai_review_v1
+casia_c:034:fb01,event,e09,accept,99,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:034:fb01,stride,c01,accept,59,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:034:fb01,stride,c02,accept,71,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fn03,event,e01,accept,47,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e02,accept,53,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e03,accept,59,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e04,accept,65,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e05,accept,71,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e06,accept,77,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e07,accept,83,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,event,e08,accept,89,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fn03,stride,c01,accept,47,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fn03,stride,c02,accept,59,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fs01,event,e01,accept,57,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fs01,event,e02,accept,62,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fs01,event,e03,flag,70,71,front foot still advancing after 70 (relative to stance foot) until ~72; contact may be 1-2 frames later,claude_ai_review_v1
+casia_c:047:fs01,event,e04,accept,75,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fs01,event,e05,flag,84,85,front foot still advancing 84->85 while stance foot moves back; contact likely 85-86,claude_ai_review_v1
+casia_c:047:fs01,event,e06,accept,91,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fs01,event,e07,flag,98,100,front foot still advancing 98->100 while stance foot moves back; contact likely 99-100,claude_ai_review_v1
+casia_c:047:fs01,event,e08,accept,103,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fs01,event,e09,accept,,,agree unresolvable: front foot clipped at frame edge from 113; window plausibly 112-114,claude_ai_review_v1
+casia_c:047:fs01,stride,c01,accept,57,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fs01,stride,c02,accept,70,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fs01,stride,c03,accept,84,,agree excluded,claude_ai_review_v1
+casia_c:047:fq01,event,e01,accept,41,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fq01,event,e02,accept,43,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fq01,event,e03,accept,51,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fq01,event,e04,accept,53,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fq01,event,e05,accept,63,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fq01,event,e06,accept,65,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fq01,stride,c01,accept,41,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fb00,event,e01,accept,47,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e02,accept,50,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e03,accept,59,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e04,accept,62,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e05,accept,71,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e06,accept,74,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e07,accept,83,,contact within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,event,e08,accept,86,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:047:fb00,stride,c01,accept,47,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:047:fb00,stride,c02,accept,59,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:051:fn01,event,e01,correct,18,20,at 18 legs have just separated and front foot advances ~15 px/frame through 19-20; toe-up heel strike and forward stop at 20-21,claude_ai_review_v1
+casia_c:051:fn01,event,e02,accept,23,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fn01,event,e03,accept,31,,contact within +-1 frame,claude_ai_review_v1
+casia_c:051:fn01,event,e04,accept,36,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fn01,event,e05,flag,44,45,front foot still advancing 44->46; contact likely 45-46,claude_ai_review_v1
+casia_c:051:fn01,event,e06,accept,49,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fn01,event,e07,flag,57,58,front foot still advancing 57->59; heel-strike posture at 58,claude_ai_review_v1
+casia_c:051:fn01,event,e08,accept,62,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fn01,stride,c01,flag,18,,IC 18 should be ~20 (see e01); next IC 44 may be 45,claude_ai_review_v1
+casia_c:051:fn01,stride,c02,accept,31,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:051:fs00,event,e01,correct,18,20,front foot still swinging at 18 (advances strongly 18->19->20); contact ~20,claude_ai_review_v1
+casia_c:051:fs00,event,e02,accept,24,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fs00,event,e03,flag,33,34,smear at 33; front foot still advancing to 34-35; contact likely 34,claude_ai_review_v1
+casia_c:051:fs00,event,e04,accept,41,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fs00,event,e05,correct,48,50,48 is legs-together mid-swing; front foot lands with toe up at ~50,claude_ai_review_v1
+casia_c:051:fs00,event,e06,accept,55,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fs00,event,e07,correct,64,66,"at 64 feet just separated, front foot advances 64->66; contact ~66",claude_ai_review_v1
+casia_c:051:fs00,event,e08,accept,71,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fs00,event,e09,correct,79,81,79 is legs just separating mid-swing; contact ~81,claude_ai_review_v1
+casia_c:051:fs00,event,e10,accept,87,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fs00,sequence,-,flag,,,contacts systematically placed ~2 frames early (at first frame after legs separate rather than end of forward swing); same tendency in 051 fq00/fb01/fn01,claude_ai_review_v1
+casia_c:051:fs00,stride,c01,flag,18,,contains corrected contacts (e01/e05/e07/e09 ~2 frames early); IC/TS/next IC frames should shift,claude_ai_review_v1
+casia_c:051:fs00,stride,c02,flag,33,,contains corrected contacts (e01/e05/e07/e09 ~2 frames early); IC/TS/next IC frames should shift,claude_ai_review_v1
+casia_c:051:fs00,stride,c03,flag,48,,contains corrected contacts (e01/e05/e07/e09 ~2 frames early); IC/TS/next IC frames should shift,claude_ai_review_v1
+casia_c:051:fq00,event,e01,flag,13,15,front foot still advancing 13->16 with vertical jitter; contact likely ~15 (low),claude_ai_review_v1
+casia_c:051:fq00,event,e02,accept,18,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fq00,event,e03,correct,26,29,26 is just after legs pass; front foot advances until 29-30,claude_ai_review_v1
+casia_c:051:fq00,event,e04,accept,32,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fq00,event,e05,correct,39,41,39 is just after legs pass; front foot advances until 41-42,claude_ai_review_v1
+casia_c:051:fq00,event,e06,accept,45,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fq00,event,e07,correct,52,54,front foot advances 52->54; contact ~54,claude_ai_review_v1
+casia_c:051:fq00,event,e08,accept,56,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fq00,sequence,-,flag,,,contacts systematically 2-3 frames early; toe-offs fine,claude_ai_review_v1
+casia_c:051:fq00,stride,c01,flag,13,,contains corrected contacts (~2-3 frames early); frames should shift,claude_ai_review_v1
+casia_c:051:fq00,stride,c02,flag,26,,contains corrected contacts (~2-3 frames early); frames should shift,claude_ai_review_v1
+casia_c:051:fb01,event,e01,correct,17,20,17 is just after legs separate; front foot advances to ~20,claude_ai_review_v1
+casia_c:051:fb01,event,e02,accept,23,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fb01,event,e03,flag,32,33,front foot still advancing 32->33/34; contact likely 33-34,claude_ai_review_v1
+casia_c:051:fb01,event,e04,flag,40,39,"rear foot clearly lifted by 39 (heel up at 38); toe-off looks 1 frame earlier, 38-39",claude_ai_review_v1
+casia_c:051:fb01,event,e05,accept,47,,contact within +-1 frame,claude_ai_review_v1
+casia_c:051:fb01,event,e06,accept,52,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fb01,event,e07,correct,60,62,front foot advances 60->63; contact ~62,claude_ai_review_v1
+casia_c:051:fb01,event,e08,accept,67,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:051:fb01,event,e09,reject,74,,"front foot still mid-swing at 74 (moved ~25 px from 73) and is clipped at the frame edge from 75; contact not placeable, should be unresolvable (window ~75-77)",claude_ai_review_v1
+casia_c:051:fb01,stride,c01,flag,17,,IC 17 should be ~20 (e01),claude_ai_review_v1
+casia_c:051:fb01,stride,c02,flag,32,,IC 32/SW 40 flagged and next IC 60 should be ~62,claude_ai_review_v1
+casia_c:051:fb01,stride,c03,reject,47,,"next IC (e09, 74) is not defensible: front foot clipped at frame edge; stride should be excluded",claude_ai_review_v1
+casia_c:053:fn02,event,e01,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e02,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e03,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e04,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e05,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e06,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e07,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,event,e08,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fn02,sequence,-,flag,,,"agree TOs unresolvable (rear foot absent) and contacts not placeable within +-1; but front toe tip is intermittently visible, so some contacts might be placeable at low confidence (+-2-3) and some windows may be ~1 frame early - author decision",claude_ai_review_v1
+casia_c:053:fn02,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fn02,stride,c02,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fs00,event,e01,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e02,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e03,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e04,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e05,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e06,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e07,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e08,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e09,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,event,e10,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fs00,sequence,-,flag,,,"agree TOs unresolvable (rear foot absent) and contacts not placeable within +-1; but front toe tip is intermittently visible, so some contacts might be placeable at low confidence (+-2-3) and some windows may be ~1 frame early - author decision",claude_ai_review_v1
+casia_c:053:fs00,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fs00,stride,c02,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fs00,stride,c03,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fq01,event,e01,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fq01,event,e02,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fq01,event,e03,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fq01,event,e04,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fq01,event,e05,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fq01,event,e06,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fq01,sequence,-,flag,,,"agree TOs unresolvable (rear foot absent) and contacts not placeable within +-1; but front toe tip is intermittently visible, so some contacts might be placeable at low confidence (+-2-3) and some windows may be ~1 frame early - author decision",claude_ai_review_v1
+casia_c:053:fq01,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fb01,event,e01,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e02,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e03,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e04,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e05,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e06,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e07,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,event,e08,accept,,,agree unresolvable: feet missing/fragmented,claude_ai_review_v1
+casia_c:053:fb01,sequence,-,flag,,,"agree TOs unresolvable (rear foot absent) and contacts not placeable within +-1; but front toe tip is intermittently visible, so some contacts might be placeable at low confidence (+-2-3) and some windows may be ~1 frame early - author decision",claude_ai_review_v1
+casia_c:053:fb01,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:053:fb01,stride,c02,accept,,,agree excluded,claude_ai_review_v1
+casia_c:063:fn01,event,e01,accept,43,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e02,accept,53,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e03,accept,58,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e04,accept,66,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e05,accept,71,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e06,accept,79,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e07,accept,84,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e08,accept,93,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,e09,accept,98,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fn01,event,new01,add,,40,"contact: front foot clean, heel strike/forward stop at 39-40; within evaluable range; enables a stride 40-43-53-58-66",claude_ai_review_v1
+casia_c:063:fn01,stride,c01,accept,53,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:063:fn01,stride,c02,accept,66,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:063:fq01,event,e01,accept,42,,"rear foot toe at ground at 42, lifted at 43; note a contact at ~40-41 sits at the evaluable boundary (41) and was not recorded",claude_ai_review_v1
+casia_c:063:fq01,event,e02,accept,51,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fq01,event,e03,accept,55,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fq01,event,e04,accept,63,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fq01,event,e05,accept,67,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fq01,event,e06,accept,75,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fq01,event,e07,accept,79,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fq01,stride,c01,accept,51,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:063:fb01,event,e01,accept,60,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e02,accept,70,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e03,accept,75,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e04,accept,84,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e05,accept,89,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e06,accept,98,,contact within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e07,accept,103,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,event,e08,flag,112,113,front foot still advancing 112->114; contact likely 113,claude_ai_review_v1
+casia_c:063:fb01,event,e09,accept,117,,opposite_toe_off within +-1 frame,claude_ai_review_v1
+casia_c:063:fb01,stride,c01,accept,70,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:063:fb01,stride,c02,accept,84,,frames match Track S events; alternation plausible,claude_ai_review_v1
+casia_c:066:fn01,event,e01,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e02,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e03,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e04,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e05,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e06,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e07,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e08,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e09,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,event,e10,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fn01,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:066:fn01,stride,c02,accept,,,agree excluded,claude_ai_review_v1
+casia_c:066:fn01,stride,c03,accept,,,agree excluded,claude_ai_review_v1
+casia_c:066:fs01,event,e01,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e02,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e03,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e04,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e05,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e06,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e07,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,event,e08,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fs01,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:066:fs01,stride,c02,accept,,,agree excluded,claude_ai_review_v1
+casia_c:066:fq01,event,e01,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fq01,event,e02,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fq01,event,e03,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fq01,event,e04,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fq01,event,e05,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fq01,event,e06,accept,,,agree unresolvable: legs hidden by long coat,claude_ai_review_v1
+casia_c:066:fq01,stride,c01,accept,,,agree excluded,claude_ai_review_v1
+casia_c:073:fn03,event,e01,flag,,,unresolvable may be placeable: one shoe clearly swings in (77-82) and is flat on the ground line from ~83; contact ~83 (medium) worth a human look,claude_ai_review_v1
+casia_c:073:fn03,event,e02,flag,,,window looks late: the second shoe is already flat on the ground in front at 97 (not visible before); window should be ~94-97; unresolvable otherwise agreed,claude_ai_review_v1
+casia_c:073:fn03,event,e03,accept,,,unresolvable agreed; rear shoe heel rises ~100 and toe blob hovers near line 102-105; window 103-108 plausible (could start ~101),claude_ai_review_v1
+casia_c:073:fn03,event,e04,flag,,,may be placeable: tracked shoe swings 101-107 and is flat at front from ~108; contact ~108 (medium),claude_ai_review_v1
+casia_c:073:fn03,event,e05,accept,,,unresolvable agreed; second shoe arrives elevated at 120-121 and is down by ~122; window 119-123 fits,claude_ai_review_v1
+casia_c:073:fn03,sequence,-,flag,,,"both shoes visible 121-131 but rear-shoe toe-off (~129-131) has no row, and unseen-foot toe-offs (~86-88, ~110-112) are not listed as unresolvable; coverage incomplete",claude_ai_review_v1
+casia_c:073:fs00,event,e01,flag,,,may be placeable: shoe swings in 76-81 and is flat at front from ~82-83; contact ~82 (medium),claude_ai_review_v1
+casia_c:073:fs00,event,e02,flag,,,window looks late: second shoe first seen at 100 already flat on ground in front; window should be ~97-100,claude_ai_review_v1
+casia_c:073:fs00,event,e03,flag,,,"window looks late: rear shoe is vertical/heel-up at 105 and clearly lifted at 106; toe-off ~105-106, before the 107-111 window",claude_ai_review_v1
+casia_c:073:fs00,event,e04,accept,,,"unresolvable agreed (could be ~112, shoe swings 106-111 and lands ~112); window 112-116 fits",claude_ai_review_v1
+casia_c:073:fs00,event,new01,add,,131,"contact (low, +-2): both shoes segmented from ~127; front shoe moves forward until ~131-133 then stays; no row exists for 117-159",claude_ai_review_v1
+casia_c:073:fs00,event,new02,add,,138,opposite_toe_off (low): rear shoe heel-up at 137 and clearly lifted 138-142,claude_ai_review_v1
+casia_c:073:fs00,event,new03,add,,144,contact (low): swinging shoe passes the stance shoe 142-143 and is down in front by ~144,claude_ai_review_v1
+casia_c:073:fs00,event,new04,add,,152,opposite_toe_off (low): rear curled shoe lifts at ~152; leg swings 153-157,claude_ai_review_v1
+casia_c:073:fs00,sequence,-,flag,,,note says only one shoe segmented but both shoes are visible in most frames 114-159; annotation stops at 116; second half needs human annotation,claude_ai_review_v1
+casia_c:073:fq00,event,e01,accept,,,unresolvable agreed; shoe lands ~78; window 76-80 fits,claude_ai_review_v1
+casia_c:073:fq00,event,e02,accept,,,"unresolvable agreed; second shoe hovers just above line 88-93, on ground by 96; window 92-96 fits",claude_ai_review_v1
+casia_c:073:fq00,event,e03,accept,,,"unresolvable agreed; rear shoe heel-up 93-94, toe near line 95-97; window 96-99 fits",claude_ai_review_v1
+casia_c:073:fq00,event,e04,accept,,,unresolvable agreed; swinging shoe down in front ~100; window 99-103 fits,claude_ai_review_v1
+casia_c:073:fq00,event,new01,add,,116,contact (low): both shoes visible 112-121; front shoe arrives elevated 114-115 and is down ~116,claude_ai_review_v1
+casia_c:073:fq00,event,new02,add,,118,"opposite_toe_off (low): rear shoe vertical/heel-up 117, lifted 118-121",claude_ai_review_v1
+casia_c:073:fq00,sequence,-,flag,,,"no rows after 103 although both shoes visible 102-123; rear toe-off ~104-105 also missing (shoe vanishes at 105, likely unresolvable)",claude_ai_review_v1
+casia_c:073:fb01,event,e01,accept,,,unresolvable agreed; shoe lands ~76-77; window 76-80 fits (could start 75),claude_ai_review_v1
+casia_c:073:fb01,event,e02,flag,,,window looks late: second shoe hovers 91-92 and is flat on ground ~93-94; window should be ~92-95,claude_ai_review_v1
+casia_c:073:fb01,event,e03,flag,,,"window looks late: rear shoe vertical at 96 and lifted at 97; toe-off ~96-97, before 98-101",claude_ai_review_v1
+casia_c:073:fb01,event,e04,flag,,,window slightly late: swinging shoe is down at ~102; window should be ~101-104,claude_ai_review_v1
+casia_c:073:fb01,event,new01,add,,118,"contact (low): front shoe arrives elevated 116-117, on ground 118-123",claude_ai_review_v1
+casia_c:073:fb01,event,new02,add,,122,"opposite_toe_off (low): rear shoe heel-up 121, clearly lifted 122-127",claude_ai_review_v1
+casia_c:073:fb01,event,new03,add,,128,"contact (low, +-2): swinging shoe comes down in front ~128-129",claude_ai_review_v1
+casia_c:078:fn00,event,e01,accept,73,,front foot lands within +-1 of 73,claude_ai_review_v1
+casia_c:078:fn00,event,e02,accept,76,,rear foot lifts within +-1 of 76,claude_ai_review_v1
+casia_c:078:fn00,event,e03,accept,87,,front foot lands within +-1 of 87,claude_ai_review_v1
+casia_c:078:fn00,event,e04,accept,91,,rear foot lifts within +-1 of 91,claude_ai_review_v1
+casia_c:078:fn00,event,e05,accept,100,,front foot lands within +-1 of 100,claude_ai_review_v1
+casia_c:078:fn00,event,e06,accept,105,,rear foot lifts within +-1 of 105,claude_ai_review_v1
+casia_c:078:fn00,event,e07,accept,113,,front foot lands within +-1 of 113,claude_ai_review_v1
+casia_c:078:fn00,event,e08,accept,119,,rear foot lifts within +-1 of 119,claude_ai_review_v1
+casia_c:078:fn00,event,e09,accept,126,,front foot lands within +-1 of 126,claude_ai_review_v1
+casia_c:078:fn00,event,e10,accept,132,,rear foot lifts within +-1 of 132,claude_ai_review_v1
+casia_c:078:fn00,stride,c01,accept,73,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fn00,stride,c02,accept,87,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fn00,stride,c03,accept,100,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fn00,stride,c04,accept,113,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:078:fs01,event,e01,accept,63,,front foot lands within +-1 of 63,claude_ai_review_v1
+casia_c:078:fs01,event,e02,accept,67,,rear foot lifts within +-1 of 67,claude_ai_review_v1
+casia_c:078:fs01,event,e03,accept,77,,front foot lands within +-1 of 77,claude_ai_review_v1
+casia_c:078:fs01,event,e04,accept,82,,rear foot lifts within +-1 of 82,claude_ai_review_v1
+casia_c:078:fs01,event,e05,accept,92,,front foot lands within +-1 of 92,claude_ai_review_v1
+casia_c:078:fs01,event,e06,accept,97,,rear foot lifts within +-1 of 97,claude_ai_review_v1
+casia_c:078:fs01,event,e07,accept,107,,front foot lands within +-1 of 107,claude_ai_review_v1
+casia_c:078:fs01,event,e08,accept,112,,rear foot lifts within +-1 of 112,claude_ai_review_v1
+casia_c:078:fs01,event,e09,accept,122,,front foot lands within +-1 of 122,claude_ai_review_v1
+casia_c:078:fs01,event,e10,accept,127,,rear foot lifts within +-1 of 127,claude_ai_review_v1
+casia_c:078:fs01,stride,c01,accept,63,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fs01,stride,c02,accept,77,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fs01,stride,c03,accept,92,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fs01,stride,c04,accept,107,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:078:fq01,event,e01,accept,57,,front foot lands within +-1 of 57,claude_ai_review_v1
+casia_c:078:fq01,event,e02,accept,59,,rear foot lifts within +-1 of 59,claude_ai_review_v1
+casia_c:078:fq01,event,e03,accept,67,,front foot lands within +-1 of 67,claude_ai_review_v1
+casia_c:078:fq01,event,e04,accept,70,,rear foot lifts within +-1 of 70,claude_ai_review_v1
+casia_c:078:fq01,event,e05,accept,79,,front foot lands within +-1 of 79,claude_ai_review_v1
+casia_c:078:fq01,event,e06,accept,81,,rear foot lifts within +-1 of 81,claude_ai_review_v1
+casia_c:078:fq01,event,e07,accept,91,,front foot lands within +-1 of 91,claude_ai_review_v1
+casia_c:078:fq01,event,e08,accept,93,,rear foot lifts within +-1 of 93,claude_ai_review_v1
+casia_c:078:fq01,stride,c01,accept,57,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fq01,stride,c02,accept,67,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fq01,stride,c03,accept,79,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:078:fb00,event,e01,accept,76,,rear foot lifts within +-1 of 76,claude_ai_review_v1
+casia_c:078:fb00,event,e02,accept,87,,front foot lands within +-1 of 87,claude_ai_review_v1
+casia_c:078:fb00,event,e03,accept,90,,rear foot lifts within +-1 of 90,claude_ai_review_v1
+casia_c:078:fb00,event,e04,accept,98,,front foot lands within +-1 of 98,claude_ai_review_v1
+casia_c:078:fb00,event,e05,accept,101,,rear foot lifts within +-1 of 101,claude_ai_review_v1
+casia_c:078:fb00,event,e06,accept,111,,front foot lands within +-1 of 111,claude_ai_review_v1
+casia_c:078:fb00,event,e07,accept,113,,rear foot lifts within +-1 of 113,claude_ai_review_v1
+casia_c:078:fb00,event,e08,accept,121,,front foot lands within +-1 of 121,claude_ai_review_v1
+casia_c:078:fb00,stride,c01,accept,87,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:078:fb00,stride,c02,accept,98,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fn02,event,e01,accept,95,,front foot lands within +-1 of 95,claude_ai_review_v1
+casia_c:088:fn02,event,e02,accept,99,,rear foot lifts within +-1 of 99,claude_ai_review_v1
+casia_c:088:fn02,event,e03,accept,107,,front foot lands within +-1 of 107,claude_ai_review_v1
+casia_c:088:fn02,event,e04,accept,111,,rear foot lifts within +-1 of 111,claude_ai_review_v1
+casia_c:088:fn02,event,e05,accept,120,,front foot lands within +-1 of 120,claude_ai_review_v1
+casia_c:088:fn02,event,e06,accept,124,,rear foot lifts within +-1 of 124,claude_ai_review_v1
+casia_c:088:fn02,event,e07,accept,133,,front foot lands within +-1 of 133,claude_ai_review_v1
+casia_c:088:fn02,event,e08,accept,138,,rear foot lifts within +-1 of 138,claude_ai_review_v1
+casia_c:088:fn02,stride,c01,accept,95,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fn02,stride,c02,accept,107,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fn02,stride,c03,accept,120,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:088:fs00,event,e01,accept,90,,rear foot lifts within +-1 of 90,claude_ai_review_v1
+casia_c:088:fs00,event,e02,accept,101,,front foot lands within +-1 of 101,claude_ai_review_v1
+casia_c:088:fs00,event,e03,accept,105,,rear foot lifts within +-1 of 105,claude_ai_review_v1
+casia_c:088:fs00,event,e04,accept,115,,front foot lands within +-1 of 115,claude_ai_review_v1
+casia_c:088:fs00,event,e05,accept,119,,rear foot lifts within +-1 of 119,claude_ai_review_v1
+casia_c:088:fs00,event,e06,accept,130,,front foot lands within +-1 of 130,claude_ai_review_v1
+casia_c:088:fs00,event,e07,accept,134,,rear foot lifts within +-1 of 134,claude_ai_review_v1
+casia_c:088:fs00,event,e08,accept,144,,front foot lands within +-1 of 144,claude_ai_review_v1
+casia_c:088:fs00,event,e09,accept,148,,rear foot lifts within +-1 of 148,claude_ai_review_v1
+casia_c:088:fs00,stride,c01,accept,101,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fs00,stride,c02,accept,115,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fs00,stride,c03,accept,130,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:088:fq01,event,e01,accept,89,,front foot lands within +-1 of 89,claude_ai_review_v1
+casia_c:088:fq01,event,e02,accept,91,,rear foot lifts within +-1 of 91,claude_ai_review_v1
+casia_c:088:fq01,event,e03,accept,100,,front foot lands within +-1 of 100,claude_ai_review_v1
+casia_c:088:fq01,event,e04,accept,103,,rear foot lifts within +-1 of 103,claude_ai_review_v1
+casia_c:088:fq01,event,e05,accept,112,,front foot lands within +-1 of 112,claude_ai_review_v1
+casia_c:088:fq01,event,e06,accept,115,,rear foot lifts within +-1 of 115,claude_ai_review_v1
+casia_c:088:fq01,stride,c01,accept,89,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fq01,stride,c02,accept,100,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:088:fb00,event,e01,accept,88,,front foot lands within +-1 of 88,claude_ai_review_v1
+casia_c:088:fb00,event,e02,accept,91,,rear foot lifts within +-1 of 91,claude_ai_review_v1
+casia_c:088:fb00,event,e03,accept,100,,front foot lands within +-1 of 100,claude_ai_review_v1
+casia_c:088:fb00,event,e04,accept,104,,rear foot lifts within +-1 of 104,claude_ai_review_v1
+casia_c:088:fb00,event,e05,accept,114,,front foot lands within +-1 of 114,claude_ai_review_v1
+casia_c:088:fb00,event,e06,accept,117,,rear foot lifts within +-1 of 117,claude_ai_review_v1
+casia_c:088:fb00,event,e07,accept,127,,front foot lands within +-1 of 127,claude_ai_review_v1
+casia_c:088:fb00,event,e08,accept,130,,rear foot lifts within +-1 of 130,claude_ai_review_v1
+casia_c:088:fb00,stride,c01,accept,88,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fb00,stride,c02,accept,100,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:088:fb00,stride,c03,accept,114,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:090:fn03,event,e01,accept,75,,toe tips visible below wide hem; front foot lands within +-1 of 75,claude_ai_review_v1
+casia_c:090:fn03,event,e02,accept,78,,toe tips visible below wide hem; rear foot lifts within +-1 of 78,claude_ai_review_v1
+casia_c:090:fn03,event,e03,accept,89,,toe tips visible below wide hem; front foot lands within +-1 of 89,claude_ai_review_v1
+casia_c:090:fn03,event,e04,accept,92,,toe tips visible below wide hem; rear foot lifts within +-1 of 92,claude_ai_review_v1
+casia_c:090:fn03,event,e05,flag,103,,front toe stops advancing ~101-102 (toe tip visible below hem); 103 may be 1-2 late; regular 14-frame spacing suggests partly timing-based,claude_ai_review_v1
+casia_c:090:fn03,event,e06,accept,106,,toe tips visible below wide hem; rear foot lifts within +-1 of 106,claude_ai_review_v1
+casia_c:090:fn03,event,e07,accept,117,,toe tips visible below wide hem; front foot lands within +-1 of 117,claude_ai_review_v1
+casia_c:090:fn03,event,e08,accept,120,,toe tips visible below wide hem; rear foot lifts within +-1 of 120,claude_ai_review_v1
+casia_c:090:fn03,event,e09,accept,131,,toe tips visible below wide hem; front foot lands within +-1 of 131,claude_ai_review_v1
+casia_c:090:fn03,event,e10,accept,134,,toe tips visible below wide hem; rear foot lifts within +-1 of 134,claude_ai_review_v1
+casia_c:090:fn03,stride,c01,accept,75,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:090:fn03,stride,c02,accept,89,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:090:fn03,stride,c03,accept,103,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:090:fn03,stride,c04,accept,117,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:090:fs01,event,e01,accept,59,,toe tips visible below wide hem; front foot lands within +-1 of 59,claude_ai_review_v1
+casia_c:090:fs01,event,e02,accept,64,,toe tips visible below wide hem; rear foot lifts within +-1 of 64,claude_ai_review_v1
+casia_c:090:fs01,event,e03,accept,76,,toe tips visible below wide hem; front foot lands within +-1 of 76,claude_ai_review_v1
+casia_c:090:fs01,event,e04,accept,81,,toe tips visible below wide hem; rear foot lifts within +-1 of 81,claude_ai_review_v1
+casia_c:090:fs01,event,e05,accept,92,,toe tips visible below wide hem; front foot lands within +-1 of 92,claude_ai_review_v1
+casia_c:090:fs01,event,e06,accept,97,,toe tips visible below wide hem; rear foot lifts within +-1 of 97,claude_ai_review_v1
+casia_c:090:fs01,event,e07,accept,109,,toe tips visible below wide hem; front foot lands within +-1 of 109,claude_ai_review_v1
+casia_c:090:fs01,event,e08,accept,114,,toe tips visible below wide hem; rear foot lifts within +-1 of 114,claude_ai_review_v1
+casia_c:090:fs01,event,e09,accept,125,,toe tips visible below wide hem; front foot lands within +-1 of 125,claude_ai_review_v1
+casia_c:090:fs01,event,e10,accept,130,,toe tips visible below wide hem; rear foot lifts within +-1 of 130,claude_ai_review_v1
+casia_c:090:fs01,event,e11,accept,142,,toe tips visible below wide hem; front foot lands within +-1 of 142,claude_ai_review_v1
+casia_c:090:fs01,event,e12,accept,147,,toe tips visible below wide hem; rear foot lifts within +-1 of 147,claude_ai_review_v1
+casia_c:090:fs01,stride,c01,accept,59,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fs01,stride,c02,accept,76,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fs01,stride,c03,accept,92,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fs01,stride,c04,accept,109,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fs01,stride,c05,accept,125,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:090:fq01,event,e01,accept,83,,toe tips visible below wide hem; front foot lands within +-1 of 83,claude_ai_review_v1
+casia_c:090:fq01,event,e02,accept,86,,toe tips visible below wide hem; rear foot lifts within +-1 of 86,claude_ai_review_v1
+casia_c:090:fq01,event,e03,accept,96,,toe tips visible below wide hem; front foot lands within +-1 of 96,claude_ai_review_v1
+casia_c:090:fq01,event,e04,accept,99,,toe tips visible below wide hem; rear foot lifts within +-1 of 99,claude_ai_review_v1
+casia_c:090:fq01,event,e05,accept,108,,toe tips visible below wide hem; front foot lands within +-1 of 108,claude_ai_review_v1
+casia_c:090:fq01,event,e06,accept,111,,toe tips visible below wide hem; rear foot lifts within +-1 of 111,claude_ai_review_v1
+casia_c:090:fq01,event,e07,accept,120,,toe tips visible below wide hem; front foot lands within +-1 of 120,claude_ai_review_v1
+casia_c:090:fq01,event,e08,accept,123,,toe tips visible below wide hem; rear foot lifts within +-1 of 123,claude_ai_review_v1
+casia_c:090:fq01,event,e09,accept,132,,toe tips visible below wide hem; front foot lands within +-1 of 132,claude_ai_review_v1
+casia_c:090:fq01,event,e10,accept,135,,toe tips visible below wide hem; rear foot lifts within +-1 of 135,claude_ai_review_v1
+casia_c:090:fq01,stride,c01,accept,83,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fq01,stride,c02,accept,96,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fq01,stride,c03,accept,108,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fq01,stride,c04,accept,120,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:090:fb01,event,e01,accept,85,,toe tips visible below wide hem; front foot lands within +-1 of 85,claude_ai_review_v1
+casia_c:090:fb01,event,e02,accept,88,,toe tips visible below wide hem; rear foot lifts within +-1 of 88,claude_ai_review_v1
+casia_c:090:fb01,event,e03,flag,99,,front toe already at its forward position by 97-98; 99 may be 1-2 late,claude_ai_review_v1
+casia_c:090:fb01,event,e04,accept,102,,toe tips visible below wide hem; rear foot lifts within +-1 of 102,claude_ai_review_v1
+casia_c:090:fb01,event,e05,accept,113,,toe tips visible below wide hem; front foot lands within +-1 of 113,claude_ai_review_v1
+casia_c:090:fb01,event,e06,accept,116,,toe tips visible below wide hem; rear foot lifts within +-1 of 116,claude_ai_review_v1
+casia_c:090:fb01,event,e07,accept,126,,toe tips visible below wide hem; front foot lands within +-1 of 126,claude_ai_review_v1
+casia_c:090:fb01,event,e08,accept,129,,toe tips visible below wide hem; rear foot lifts within +-1 of 129,claude_ai_review_v1
+casia_c:090:fb01,event,e09,accept,140,,toe tips visible below wide hem; front foot lands within +-1 of 140,claude_ai_review_v1
+casia_c:090:fb01,event,e10,accept,143,,toe tips visible below wide hem; rear foot lifts within +-1 of 143,claude_ai_review_v1
+casia_c:090:fb01,stride,c01,accept,85,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:090:fb01,stride,c02,accept,99,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:090:fb01,stride,c03,accept,113,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:090:fb01,stride,c04,accept,126,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:091:fn02,event,e01,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:091:fn02,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:091:fn02,event,e03,accept,118,,fragmented but foot blob visible; front foot lands within +-1 of 118,claude_ai_review_v1
+casia_c:091:fn02,event,e04,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:091:fn02,event,e05,accept,132,,fragmented but foot blob visible; front foot lands within +-1 of 132,claude_ai_review_v1
+casia_c:091:fn02,event,e06,accept,136,,fragmented but foot blob visible; rear foot lifts within +-1 of 136,claude_ai_review_v1
+casia_c:091:fn02,event,e07,accept,148,,fragmented but foot blob visible; front foot lands within +-1 of 148,claude_ai_review_v1
+casia_c:091:fn02,event,e08,accept,151,,fragmented but foot blob visible; rear foot lifts within +-1 of 151,claude_ai_review_v1
+casia_c:091:fn02,event,e09,accept,161,,fragmented but foot blob visible; front foot lands within +-1 of 161,claude_ai_review_v1
+casia_c:091:fn02,event,e10,accept,166,,fragmented but foot blob visible; rear foot lifts within +-1 of 166,claude_ai_review_v1
+casia_c:091:fn02,stride,c01,accept,118,,exclusion justified: unresolved toe-off inside stride; fragmented lower limb,claude_ai_review_v1
+casia_c:091:fn02,stride,c02,accept,132,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:091:fn02,stride,c03,accept,148,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:091:fs00,event,e01,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:091:fs00,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:091:fs00,event,e03,flag,154,,front foot fragment on ground ~151 and stops advancing ~152-153; 154 may be 1-2 late; fragmented,claude_ai_review_v1
+casia_c:091:fs00,event,e04,accept,158,,fragmented but foot blob visible; rear foot lifts within +-1 of 158,claude_ai_review_v1
+casia_c:091:fs00,event,e05,accept,171,,fragmented but foot blob visible; front foot lands within +-1 of 171,claude_ai_review_v1
+casia_c:091:fs00,event,e06,accept,176,,fragmented but foot blob visible; rear foot lifts within +-1 of 176,claude_ai_review_v1
+casia_c:091:fs00,event,e07,accept,189,,fragmented but foot blob visible; front foot lands within +-1 of 189,claude_ai_review_v1
+casia_c:091:fs00,event,e08,accept,194,,fragmented but foot blob visible; rear foot lifts within +-1 of 194,claude_ai_review_v1
+casia_c:091:fs00,event,e09,accept,206,,fragmented but foot blob visible; front foot lands within +-1 of 206,claude_ai_review_v1
+casia_c:091:fs00,event,e10,accept,211,,fragmented but foot blob visible; rear foot lifts within +-1 of 211,claude_ai_review_v1
+casia_c:091:fs00,stride,c01,accept,,,exclusion justified: unresolved contact and toe-off at start; fragmented lower limbs,claude_ai_review_v1
+casia_c:091:fs00,stride,c02,accept,154,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:091:fs00,stride,c03,accept,171,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:091:fs00,stride,c04,accept,189,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:091:fq00,event,e01,accept,106,,fragmented but foot blob visible; front foot lands within +-1 of 106,claude_ai_review_v1
+casia_c:091:fq00,event,e02,flag,,,"unresolvable agreed, but rear-leg fragment already floats above ground at 104-105; window may need to start ~103",claude_ai_review_v1
+casia_c:091:fq00,event,e03,accept,118,,fragmented but foot blob visible; front foot lands within +-1 of 118,claude_ai_review_v1
+casia_c:091:fq00,event,e04,accept,121,,fragmented but foot blob visible; rear foot lifts within +-1 of 121,claude_ai_review_v1
+casia_c:091:fq00,event,e05,accept,130,,fragmented but foot blob visible; front foot lands within +-1 of 130,claude_ai_review_v1
+casia_c:091:fq00,event,e06,accept,134,,fragmented but foot blob visible; rear foot lifts within +-1 of 134,claude_ai_review_v1
+casia_c:091:fq00,stride,c01,accept,106,,exclusion justified: unresolved toe-off inside stride; fragmented rear leg,claude_ai_review_v1
+casia_c:091:fq00,stride,c02,accept,118,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:091:fb00,event,e01,accept,123,,fragmented but foot blob visible; front foot lands within +-1 of 123,claude_ai_review_v1
+casia_c:091:fb00,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:091:fb00,event,e03,flag,139,,front foot fragment reaches ground ~136-137 and stops advancing ~137-138; 139 may be 1-2 late (step 123->139 longer than later steps),claude_ai_review_v1
+casia_c:091:fb00,event,e04,accept,142,,fragmented but foot blob visible; rear foot lifts within +-1 of 142,claude_ai_review_v1
+casia_c:091:fb00,event,e05,accept,153,,fragmented but foot blob visible; front foot lands within +-1 of 153,claude_ai_review_v1
+casia_c:091:fb00,event,e06,accept,157,,fragmented but foot blob visible; rear foot lifts within +-1 of 157,claude_ai_review_v1
+casia_c:091:fb00,event,e07,accept,168,,fragmented but foot blob visible; front foot lands within +-1 of 168,claude_ai_review_v1
+casia_c:091:fb00,event,e08,accept,171,,fragmented but foot blob visible; rear foot lifts within +-1 of 171,claude_ai_review_v1
+casia_c:091:fb00,event,e09,accept,181,,fragmented but foot blob visible; front foot lands within +-1 of 181,claude_ai_review_v1
+casia_c:091:fb00,event,e10,accept,185,,fragmented but foot blob visible; rear foot lifts within +-1 of 185,claude_ai_review_v1
+casia_c:091:fb00,stride,c01,accept,123,,exclusion justified: unresolved toe-off inside stride; rear foot not segmented,claude_ai_review_v1
+casia_c:091:fb00,stride,c02,accept,139,,"consistent with Track S, but inherits a flagged contact frame (see event flags)",claude_ai_review_v1
+casia_c:091:fb00,stride,c03,accept,153,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:091:fb00,stride,c04,accept,168,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:095:fn02,event,e01,accept,88,,fragmented but foot blob visible; front foot lands within +-1 of 88,claude_ai_review_v1
+casia_c:095:fn02,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fn02,event,e03,accept,102,,fragmented but foot blob visible; front foot lands within +-1 of 102,claude_ai_review_v1
+casia_c:095:fn02,event,e04,accept,105,,fragmented but foot blob visible; rear foot lifts within +-1 of 105,claude_ai_review_v1
+casia_c:095:fn02,event,e05,accept,114,,fragmented but foot blob visible; front foot lands within +-1 of 114,claude_ai_review_v1
+casia_c:095:fn02,event,e06,accept,117,,fragmented but foot blob visible; rear foot lifts within +-1 of 117,claude_ai_review_v1
+casia_c:095:fn02,event,e07,accept,127,,fragmented but foot blob visible; front foot lands within +-1 of 127,claude_ai_review_v1
+casia_c:095:fn02,event,e08,accept,131,,fragmented but foot blob visible; rear foot lifts within +-1 of 131,claude_ai_review_v1
+casia_c:095:fn02,stride,c01,accept,88,,exclusion justified: unresolved toe-off inside stride; fragmented rear leg,claude_ai_review_v1
+casia_c:095:fn02,stride,c02,accept,102,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:095:fn02,stride,c03,accept,114,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:095:fs01,event,e01,accept,118,,fragmented but foot blob visible; front foot lands within +-1 of 118,claude_ai_review_v1
+casia_c:095:fs01,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fs01,event,e03,accept,133,,fragmented but foot blob visible; front foot lands within +-1 of 133,claude_ai_review_v1
+casia_c:095:fs01,event,e04,accept,137,,fragmented but foot blob visible; rear foot lifts within +-1 of 137,claude_ai_review_v1
+casia_c:095:fs01,event,e05,accept,148,,fragmented but foot blob visible; front foot lands within +-1 of 148,claude_ai_review_v1
+casia_c:095:fs01,event,e06,accept,152,,fragmented but foot blob visible; rear foot lifts within +-1 of 152,claude_ai_review_v1
+casia_c:095:fs01,event,e07,accept,163,,fragmented but foot blob visible; front foot lands within +-1 of 163,claude_ai_review_v1
+casia_c:095:fs01,event,e08,accept,167,,fragmented but foot blob visible; rear foot lifts within +-1 of 167,claude_ai_review_v1
+casia_c:095:fs01,event,e09,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fs01,stride,c01,accept,118,,exclusion justified: unresolved toe-off inside stride; fragmented rear leg,claude_ai_review_v1
+casia_c:095:fs01,stride,c02,accept,133,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:095:fs01,stride,c03,accept,148,,exclusion justified: next contact unresolvable,claude_ai_review_v1
+casia_c:095:fq01,event,e01,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fq01,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fq01,event,e03,flag,116,,front blob on ground at 113 and toe at forward position by 114-115; 116 may be 1-2 late; heavily fragmented,claude_ai_review_v1
+casia_c:095:fq01,event,e04,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fq01,event,e05,accept,127,,fragmented but foot blob visible; front foot lands within +-1 of 127,claude_ai_review_v1
+casia_c:095:fq01,event,e06,accept,130,,fragmented but foot blob visible; rear foot lifts within +-1 of 130,claude_ai_review_v1
+casia_c:095:fq01,event,e07,accept,139,,fragmented but foot blob visible; front foot lands within +-1 of 139,claude_ai_review_v1
+casia_c:095:fq01,event,e08,accept,142,,fragmented but foot blob visible; rear foot lifts within +-1 of 142,claude_ai_review_v1
+casia_c:095:fq01,stride,c01,accept,116,,exclusion justified: unresolved toe-off inside stride; fragmented lower limbs,claude_ai_review_v1
+casia_c:095:fq01,stride,c02,accept,127,,exclusion justified: next contact beyond sequence end,claude_ai_review_v1
+casia_c:095:fb00,event,e01,accept,85,,fragmented but foot blob visible; front foot lands within +-1 of 85,claude_ai_review_v1
+casia_c:095:fb00,event,e02,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fb00,event,e03,accept,97,,fragmented but foot blob visible; front foot lands within +-1 of 97,claude_ai_review_v1
+casia_c:095:fb00,event,e04,accept,99,,fragmented but foot blob visible; rear foot lifts within +-1 of 99,claude_ai_review_v1
+casia_c:095:fb00,event,e05,accept,109,,fragmented but foot blob visible; front foot lands within +-1 of 109,claude_ai_review_v1
+casia_c:095:fb00,event,e06,accept,112,,fragmented but foot blob visible; rear foot lifts within +-1 of 112,claude_ai_review_v1
+casia_c:095:fb00,event,e07,accept,122,,fragmented but foot blob visible; front foot lands within +-1 of 122,claude_ai_review_v1
+casia_c:095:fb00,event,e08,accept,126,,fragmented but foot blob visible; rear foot lifts within +-1 of 126,claude_ai_review_v1
+casia_c:095:fb00,event,e09,accept,,,unresolvable agreed; limb not segmented well enough to place; window plausible,claude_ai_review_v1
+casia_c:095:fb00,stride,c01,accept,85,,exclusion justified: unresolved toe-off inside stride; fragmented rear leg,claude_ai_review_v1
+casia_c:095:fb00,stride,c02,accept,97,,frames match Track S events; alternation chain fully resolved; terminal stance = contact k+1 (low) as per guide,claude_ai_review_v1
+casia_c:095:fb00,stride,c03,accept,109,,exclusion justified: next contact unresolvable,claude_ai_review_v1
+casia_c:102:fn01,event,e01,accept,21,,Front foot reaches ground 20-21.,claude_ai_review_v1
+casia_c:102:fn01,event,e02,accept,23,,Rear foot leaves ground 23.,claude_ai_review_v1
+casia_c:102:fn01,event,e03,accept,34,,Front foot down 33-34.,claude_ai_review_v1
+casia_c:102:fn01,event,e04,accept,36,,Rear foot lifted by 36-37.,claude_ai_review_v1
+casia_c:102:fn01,event,e05,flag,47,,Front foot height near-constant 45-49 with ground fragment at 45; landing could be 45-47. Needs human eye.,claude_ai_review_v1
+casia_c:102:fn01,event,e06,accept,50,,Rear foot clearly lifted at 50 (49 borderline).,claude_ai_review_v1
+casia_c:102:fn01,event,e07,accept,61,,Front foot lands 61 with ground fragment; in swing at 60.,claude_ai_review_v1
+casia_c:102:fn01,event,e08,accept,65,,Rear toe on ground through 64; leaves 65.,claude_ai_review_v1
+casia_c:102:fn01,stride,c01,accept,21,,Frames match Track S; next IC depends on flagged e05.,claude_ai_review_v1
+casia_c:102:fn01,stride,c02,accept,34,,Frames match Track S; TS depends on flagged e05.,claude_ai_review_v1
+casia_c:102:fs00,event,e01,accept,,,Unresolvable justified: front foot fragmented 21-25.,claude_ai_review_v1
+casia_c:102:fs00,event,e02,accept,,,Unresolvable justified: rear foot fragmented 27-31.,claude_ai_review_v1
+casia_c:102:fs00,event,e03,accept,44,,Front foot lowers to ground 44-45.,claude_ai_review_v1
+casia_c:102:fs00,event,e04,accept,48,,"Rear foot on ground at 46, lifted 47-48; within 1.",claude_ai_review_v1
+casia_c:102:fs00,event,e05,flag,60,57,"Front foot stops advancing at 57 (stationary with rear foot 57-62, both at ground level), suggesting contact ~57-58; foot keeps lowering until 60. Possible +2-3 lag.",claude_ai_review_v1
+casia_c:102:fs00,event,e06,accept,63,,"Rear foot on ground at 62, lifted at 63.",claude_ai_review_v1
+casia_c:102:fs00,event,e07,flag,79,77,Front foot low and stationary from ~76-77; at 79 it looks toe-up/slightly higher. Contact likely 76-78.,claude_ai_review_v1
+casia_c:102:fs00,event,e08,flag,84,,Rear foot fragmented 82-85; toe-off anywhere 83-85. Low-confidence placement.,claude_ai_review_v1
+casia_c:102:fs00,event,e09,flag,98,96,Front foot at ground level and no longer advancing from ~95-96; 98 may be 2 frames late.,claude_ai_review_v1
+casia_c:102:fs00,event,e10,accept,101,,"Rear foot lifting 100, clearly off 101.",claude_ai_review_v1
+casia_c:102:fs00,event,e11,flag,116,,"Subject at sheet edge, crop shifts (frame 115 vertically offset); front foot already near ground 111-113. Contact window ~111-116.",claude_ai_review_v1
+casia_c:102:fs00,event,e12,accept,,,Unresolvable justified: rear foot fragmented near end.,claude_ai_review_v1
+casia_c:102:fs00,stride,c01,accept,,,Exclusion justified (IC/MS unresolvable).,claude_ai_review_v1
+casia_c:102:fs00,stride,c02,flag,44,,"Consistent with Track S, but TS (=e05) and next IC (=e07) are flagged.",claude_ai_review_v1
+casia_c:102:fs00,stride,c03,flag,60,,"Consistent with Track S, but IC e05, TS e07 and next IC e09 flagged.",claude_ai_review_v1
+casia_c:102:fs00,stride,c04,flag,79,,"Consistent with Track S, but IC e07, TS e09, next IC e11 flagged; e08 fragmented.",claude_ai_review_v1
+casia_c:102:fq01,event,e01,accept,18,,Front foot reaches ground ~18-19 (fragments at ground); low confidence reasonable.,claude_ai_review_v1
+casia_c:102:fq01,event,e02,accept,22,,"Rear foot on ground through 21, lifted 22.",claude_ai_review_v1
+casia_c:102:fq01,event,e03,accept,31,,"Front foot toe-up at 30, down at 31.",claude_ai_review_v1
+casia_c:102:fq01,event,e04,accept,32,,Rear foot lifting at 32; 1-frame double support plausible for fast walk.,claude_ai_review_v1
+casia_c:102:fq01,event,e05,flag,43,45,At 41-42 the swing foot grazes the ground; at 43-44 it is still forward and toe-up in the air; heel reaches ground ~44-45. 43 likely 1-2 early.,claude_ai_review_v1
+casia_c:102:fq01,event,e06,accept,45,,"Rear foot on ground at 44, off at 45.",claude_ai_review_v1
+casia_c:102:fq01,stride,c01,flag,18,,"Consistent with Track S, but next IC = flagged e05.",claude_ai_review_v1
+casia_c:102:fb00,event,e01,accept,21,,"Front foot toe-up at 20, down by 21.",claude_ai_review_v1
+casia_c:102:fb00,event,e02,accept,25,,Rear foot leaves ground 25.,claude_ai_review_v1
+casia_c:102:fb00,event,e03,accept,35,,Front foot lands ~35.,claude_ai_review_v1
+casia_c:102:fb00,event,e04,accept,37,,"Rear foot touching at 36, lifted 37.",claude_ai_review_v1
+casia_c:102:fb00,event,e05,flag,48,49,"Front foot toe-up in air 47-49, heel at stance-foot level ~49-50; rear foot leaves at 50. Contact more likely 49-50.",claude_ai_review_v1
+casia_c:102:fb00,event,e06,accept,50,,"Rear foot on ground 47-49, lifted 50.",claude_ai_review_v1
+casia_c:102:fb00,event,e07,flag,62,64,"Front foot still in air toe-up at 60-63 (ground strip at 62 is shadow); heel reaches stance level ~64, rear foot leaves 65. Contact likely 63-64.",claude_ai_review_v1
+casia_c:102:fb00,event,e08,accept,65,,"Rear foot on ground at 64, lifted 65.",claude_ai_review_v1
+casia_c:102:fb00,stride,c01,flag,21,,"Consistent with Track S, but next IC = flagged e05.",claude_ai_review_v1
+casia_c:102:fb00,stride,c02,flag,35,,"Consistent with Track S, but TS e05 and next IC e07 flagged.",claude_ai_review_v1
+casia_c:107:fn02,event,e01,accept,21,,Rear foot fragment rises gradually 20-22; 21 defensible at low confidence.,claude_ai_review_v1
+casia_c:107:fn02,event,e02,accept,31,,"Front foot above ground at 30, at ground 31.",claude_ai_review_v1
+casia_c:107:fn02,event,e03,accept,35,,"Rear foot on ground 33, lifted by 34-35.",claude_ai_review_v1
+casia_c:107:fn02,event,e04,accept,44,,Front foot reaches ground 44.,claude_ai_review_v1
+casia_c:107:fn02,event,e05,accept,47,,"Rear foot on ground 46, lifted 47.",claude_ai_review_v1
+casia_c:107:fn02,event,e06,accept,57,,Front foot at ground 56-57 (ground fragment at 56).,claude_ai_review_v1
+casia_c:107:fn02,event,e07,accept,60,,"Rear foot on ground 59, lifted 60.",claude_ai_review_v1
+casia_c:107:fn02,event,e08,accept,70,,Front foot reaches ground 69-70.,claude_ai_review_v1
+casia_c:107:fn02,event,e09,accept,73,,Rear foot appears off ground by 72-73; within 1.,claude_ai_review_v1
+casia_c:107:fn02,stride,c01,accept,31,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fn02,stride,c02,accept,44,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fs00,event,e01,accept,,,"Unresolvable reasonable: rear foot fragmented, toe stays near ground 23-27 (likely leaves ~26-27).",claude_ai_review_v1
+casia_c:107:fs00,event,e02,accept,38,,Front foot reaches ground 37-38.,claude_ai_review_v1
+casia_c:107:fs00,event,e03,accept,42,,"Rear foot on ground through 41, lifting 42.",claude_ai_review_v1
+casia_c:107:fs00,event,e04,accept,52,,Front foot low from 50; 52 defensible at low confidence.,claude_ai_review_v1
+casia_c:107:fs00,event,e05,accept,56,,Rear foot leaves ground 55-56.,claude_ai_review_v1
+casia_c:107:fs00,event,e06,accept,69,,Front foot reaches ground 69-70.,claude_ai_review_v1
+casia_c:107:fs00,event,e07,accept,72,,"Rear foot at stance level at 71, lifted 72-73.",claude_ai_review_v1
+casia_c:107:fs00,event,e08,accept,84,,Front foot at ground 84 (ground strip at 82 ambiguous); low confidence fair.,claude_ai_review_v1
+casia_c:107:fs00,event,e09,accept,87,,Rear foot lifted at 87.,claude_ai_review_v1
+casia_c:107:fs00,event,e10,accept,101,,Front foot reaches ground 101-102; subject near sheet edge.,claude_ai_review_v1
+casia_c:107:fs00,event,e11,accept,103,,"Rear foot at front-foot level at 103, lifted 104; within 1.",claude_ai_review_v1
+casia_c:107:fs00,stride,c01,accept,38,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fs00,stride,c02,accept,52,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fs00,stride,c03,accept,69,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fq01,event,e01,accept,,,"Unresolvable reasonable: rear toe leaves ~14-15, at the evaluable-range boundary with tiny fragments.",claude_ai_review_v1
+casia_c:107:fq01,event,e02,accept,25,,Front foot lowers 25-27; 25-26 defensible at low confidence.,claude_ai_review_v1
+casia_c:107:fq01,event,e03,accept,28,,"Rear foot on ground at 28 edge, off at 29; within 1.",claude_ai_review_v1
+casia_c:107:fq01,event,e04,accept,38,,Front foot reaches ground 37-38.,claude_ai_review_v1
+casia_c:107:fq01,event,e05,accept,40,,"Rear foot on ground 39, lifted 40.",claude_ai_review_v1
+casia_c:107:fq01,event,e06,accept,50,,Front foot reaches ground 49-50.,claude_ai_review_v1
+casia_c:107:fq01,event,e07,accept,52,,"Rear foot level with front at 52, lifted 53; within 1.",claude_ai_review_v1
+casia_c:107:fq01,event,new01,add,,61,"contact: front foot moves forward at ground level 60-62 and stops (~12 frames after e06); falls inside evaluable range (<=62). Placement ±1, near sequence end.",claude_ai_review_v1
+casia_c:107:fq01,stride,c01,accept,25,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fb01,event,e01,accept,18,,Rear foot fragment leaves ground 18-19.,claude_ai_review_v1
+casia_c:107:fb01,event,e02,accept,29,,"Front foot above ground 28, at ground 29.",claude_ai_review_v1
+casia_c:107:fb01,event,e03,accept,32,,"Rear foot on ground through 31-32, lifted 33; within 1.",claude_ai_review_v1
+casia_c:107:fb01,event,e04,accept,41,,Front foot reaches ground 41.,claude_ai_review_v1
+casia_c:107:fb01,event,e05,accept,43,,Rear foot leaves ground 43-44.,claude_ai_review_v1
+casia_c:107:fb01,event,e06,accept,55,,Front foot reaches ground 55.,claude_ai_review_v1
+casia_c:107:fb01,event,e07,accept,57,,"Rear foot lifting 57, off 58.",claude_ai_review_v1
+casia_c:107:fb01,event,e08,accept,68,,"Front foot in air at 67, at ground 68-69.",claude_ai_review_v1
+casia_c:107:fb01,event,e09,accept,71,,Rear foot lifted at 71.,claude_ai_review_v1
+casia_c:107:fb01,stride,c01,accept,29,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:107:fb01,stride,c02,accept,41,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:108:fn02,event,e01,accept,21,,Front leg reaches ground line 21-22 (dark shoe; shin end used).,claude_ai_review_v1
+casia_c:108:fn02,event,e02,accept,25,,"Rear leg at ground 24, lifted 25.",claude_ai_review_v1
+casia_c:108:fn02,event,e03,accept,35,,Front leg landing 34-36; dark shoe limits precision.,claude_ai_review_v1
+casia_c:108:fn02,event,e04,accept,38,,"Rear toe at ground 38, lifted 39; within 1.",claude_ai_review_v1
+casia_c:108:fn02,event,e05,accept,47,,Front shoe sole visible; foot stops advancing ~47.,claude_ai_review_v1
+casia_c:108:fn02,event,e06,accept,49,,"Rear shoe on ground through 48-49, leg lifted 50; within 1.",claude_ai_review_v1
+casia_c:108:fn02,event,e07,accept,,,Unresolvable justified: front shoe appears only as fragments 58-62.,claude_ai_review_v1
+casia_c:108:fn02,event,e08,accept,,,Unresolvable justified: rear shoe not segmented and silhouette baseline drifts 63-68.,claude_ai_review_v1
+casia_c:108:fn02,event,e09,accept,,,"Unresolvable reasonable: front shoe visible 71-74 then drops out; foot stops advancing ~73-74, silhouette floats above dashed line.",claude_ai_review_v1
+casia_c:108:fn02,sequence,-,flag,,,"Rear (trailing) leg toe-off around 12-14 lies inside the evaluable range (from 11) but has no row, not even unresolvable; dark shoe makes it unplaceable, so it may deserve an unresolvable row.",claude_ai_review_v1
+casia_c:108:fn02,stride,c01,accept,21,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:108:fn02,stride,c02,accept,35,,Exclusion justified (next contact unresolvable).,claude_ai_review_v1
+casia_c:108:fn02,stride,c03,accept,47,,Exclusion justified (k+1 contact onward unresolvable).,claude_ai_review_v1
+casia_c:108:fs01,event,e01,accept,24,,Front foot stops advancing 23-24 at ground.,claude_ai_review_v1
+casia_c:108:fs01,event,e02,accept,30,,"Rear toe at ground through 28, lifting 29-30.",claude_ai_review_v1
+casia_c:108:fs01,event,e03,accept,41,,Front leg at forward plateau from 39-40; 41 within 1 (dark shoe).,claude_ai_review_v1
+casia_c:108:fs01,event,e04,accept,47,,Rear leg leaves ground 46-47.,claude_ai_review_v1
+casia_c:108:fs01,event,e05,flag,57,55,Front shoe is visible at ground level and no longer advancing from ~54-55; 57 may be 2 late. Rear leaves ~59-60.,claude_ai_review_v1
+casia_c:108:fs01,event,e06,accept,60,,Rear leg lifting 59-60.,claude_ai_review_v1
+casia_c:108:fs01,event,e07,accept,74,,Front shoe drops out after 72; foot at forward plateau 72-75; 74 defensible at low confidence.,claude_ai_review_v1
+casia_c:108:fs01,event,e08,accept,78,,Rear shoe reappears tilted at 77; toe leaves 78-79.,claude_ai_review_v1
+casia_c:108:fs01,event,e09,accept,88,,"Front shoe visible, flat at ground and stops advancing at 88.",claude_ai_review_v1
+casia_c:108:fs01,event,e10,flag,,,"Window 88-91 looks too early: it starts on the contact frame, and the rear leg is still trailing at ground level through ~91-93. Rear shoe reappears lifted ~95 (same cue used for e08/e12). Window ~92-95; may be placeable ~94 at low confidence.",claude_ai_review_v1
+casia_c:108:fs01,event,e11,accept,,,Unresolvable justified: front shoe visible only in 104-105 then drops out; window 104-107 fits.,claude_ai_review_v1
+casia_c:108:fs01,event,e12,accept,111,,"Rear shoe reappears off ground 111; ~6 frames after contact window, consistent with earlier steps.",claude_ai_review_v1
+casia_c:108:fs01,sequence,-,flag,,,"Gap 88-111: contact 88 is fine, but toe-off e10 window (88-91) is too early (likely 92-95) and contact e11 is unresolvable 104-107. Two events in the gap rely on dark shoes that drop out; needs a human check.",claude_ai_review_v1
+casia_c:108:fs01,stride,c01,flag,24,,"Consistent with Track S, but next IC = flagged e05.",claude_ai_review_v1
+casia_c:108:fs01,stride,c02,flag,41,,"Consistent with Track S, but TS = flagged e05.",claude_ai_review_v1
+casia_c:108:fs01,stride,c03,flag,57,,"Consistent with Track S, but IC = flagged e05.",claude_ai_review_v1
+casia_c:108:fs01,stride,c04,accept,74,,Exclusion justified (swing and next contact unresolvable).,claude_ai_review_v1
+casia_c:108:fq01,event,e01,accept,21,,Front leg at forward plateau and ground 20-21.,claude_ai_review_v1
+casia_c:108:fq01,event,e02,accept,23,,"Rear shoe touching at 22, lifted 23.",claude_ai_review_v1
+casia_c:108:fq01,event,e03,accept,33,,"Front shoe in air at 31, lands 32-33.",claude_ai_review_v1
+casia_c:108:fq01,event,e04,accept,35,,"Rear leg on ground 34, lifted 35.",claude_ai_review_v1
+casia_c:108:fq01,event,e05,accept,45,,Front shoe visible; stops advancing 44-45.,claude_ai_review_v1
+casia_c:108:fq01,event,e06,accept,47,,"Rear shoe reappears tilted/lifted 47; dark shoe, low confidence fair.",claude_ai_review_v1
+casia_c:108:fq01,event,e07,accept,,,"Unresolvable justified: front shoe visible at 56 only, then drops out.",claude_ai_review_v1
+casia_c:108:fq01,event,e08,accept,,,"Unresolvable reasonable: rear shoe absent 57-59, reappears lifted 60.",claude_ai_review_v1
+casia_c:108:fq01,sequence,-,flag,,,"Trailing-leg toe-off around 11-12 lies inside the evaluable range (from 10) with no row; dark shoe makes it unplaceable, so it may deserve an unresolvable row.",claude_ai_review_v1
+casia_c:108:fq01,stride,c01,accept,21,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:108:fq01,stride,c02,accept,33,,Exclusion justified (next contact unresolvable).,claude_ai_review_v1
+casia_c:108:fb00,event,e01,accept,22,,"Front shoe at ground, stops advancing 21-22.",claude_ai_review_v1
+casia_c:108:fb00,event,e02,accept,25,,"Rear leg on ground 24, lifted 25.",claude_ai_review_v1
+casia_c:108:fb00,event,e03,accept,35,,Front leg at forward plateau from 34; 35 within 1.,claude_ai_review_v1
+casia_c:108:fb00,event,e04,accept,37,,Rear leg lifts 37-38.,claude_ai_review_v1
+casia_c:108:fb00,event,e05,accept,48,,Front shoe stops advancing 48.,claude_ai_review_v1
+casia_c:108:fb00,event,e06,accept,50,,Rear leg lifted at 50 (49 borderline).,claude_ai_review_v1
+casia_c:108:fb00,event,e07,accept,,,"Unresolvable reasonable: front shoe visible at 60 and 62 only, still slightly above stance level at 62; window may extend to 64.",claude_ai_review_v1
+casia_c:108:fb00,event,e08,accept,66,,"Rear shoe flat at 65, tilted and lifted 66.",claude_ai_review_v1
+casia_c:108:fb00,event,new01,add,,74,"contact: front shoe visible and flat 73-75; foot stops advancing ~74-75 (8 frames after e08), inside evaluable range (<=75). Near sequence end; baseline floats above dashed line, so ±1.",claude_ai_review_v1
+casia_c:108:fb00,sequence,-,flag,,,"Trailing-leg toe-off around 12-13 lies inside the evaluable range (from 11) with no row; dark shoe, may deserve an unresolvable row.",claude_ai_review_v1
+casia_c:108:fb00,stride,c01,accept,22,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:108:fb00,stride,c02,accept,35,,Exclusion justified (next contact unresolvable).,claude_ai_review_v1
+casia_c:110:fn00,event,e01,accept,23,,"Front foot at ground, stops advancing 23.",claude_ai_review_v1
+casia_c:110:fn00,event,e02,flag,27,,"Frame 27 is partially corrupted (noise blocks over the upper silhouette; 27-34 affected). Legs look intact and rear heel is up at 26, toe-off 26-27 plausible, but the event sits on a corrupted frame.",claude_ai_review_v1
+casia_c:110:fn00,event,e03,accept,37,,"Front foot stops advancing at 37 (35-36 just after corruption, foot fragmented).",claude_ai_review_v1
+casia_c:110:fn00,event,e04,accept,42,,"Rear toe at ground 41, lifted 42.",claude_ai_review_v1
+casia_c:110:fn00,event,e05,accept,51,,Front foot stops advancing 51.,claude_ai_review_v1
+casia_c:110:fn00,event,e06,accept,56,,"Rear foot fragment at ground 55, lifted 56.",claude_ai_review_v1
+casia_c:110:fn00,event,e07,accept,65,,Front foot stops advancing 65.,claude_ai_review_v1
+casia_c:110:fn00,event,e08,accept,70,,"Rear toe at ground 69-70, lifted 71; within 1.",claude_ai_review_v1
+casia_c:110:fn00,event,e09,accept,80,,Front foot plateau 79-80.,claude_ai_review_v1
+casia_c:110:fn00,event,e10,accept,85,,Rear toe leaves 84-85.,claude_ai_review_v1
+casia_c:110:fn00,sequence,-,flag,,,"Corruption starts at frame 27 (noise blocks 27-28, heavy 29-32, partial 33-34), not only 29-32 and 34 as in quality_notes.",claude_ai_review_v1
+casia_c:110:fn00,stride,c01,flag,23,,"Consistent with Track S, but MS (e02, frame 27) sits on a partially corrupted frame and the stride spans corrupted frames 27-34.",claude_ai_review_v1
+casia_c:110:fn00,stride,c02,accept,37,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:110:fn00,stride,c03,accept,51,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:110:fs00,event,e01,accept,14,,"Front foot at ground from 13, stops advancing 14-15.",claude_ai_review_v1
+casia_c:110:fs00,event,e02,accept,22,,"Rear toe stays at ground 19-22, lifted 23; within 1. Frames 17-18 are vertically offset (feet ~20px above line) and were rightly avoided.",claude_ai_review_v1
+casia_c:110:fs00,event,e03,accept,,,Unresolvable justified: frames 27-41 corrupted.,claude_ai_review_v1
+casia_c:110:fs00,event,e04,accept,,,"Unresolvable justified: corrupted to 41, feet truncated/missing 42-45.",claude_ai_review_v1
+casia_c:110:fs00,event,e05,accept,53,,Front foot at forward plateau 51-53; low confidence fair.,claude_ai_review_v1
+casia_c:110:fs00,event,e06,accept,56,,"Rear foot fragmented 54-55, clearly lifted 56.",claude_ai_review_v1
+casia_c:110:fs00,event,e07,accept,68,,Front foot stops advancing 67-68.,claude_ai_review_v1
+casia_c:110:fs00,event,e08,accept,71,,Rear foot lifted at 71 (70 borderline).,claude_ai_review_v1
+casia_c:110:fs00,event,e09,accept,85,,Front foot plateau 84-85.,claude_ai_review_v1
+casia_c:110:fs00,event,e10,accept,90,,"Rear toe at ground 90, lifted 91; within 1.",claude_ai_review_v1
+casia_c:110:fs00,event,e11,accept,102,,Front foot plateau 101-102.,claude_ai_review_v1
+casia_c:110:fs00,event,e12,accept,108,,"Rear toe at ground 107, lifted 108.",claude_ai_review_v1
+casia_c:110:fs00,sequence,-,flag,,,"Corruption spans 27-41 (noise 27-28 and 39-41), not 28-40; feet truncated 42-45; frames 17-18 vertically offset. No annotated event sits on these frames.",claude_ai_review_v1
+casia_c:110:fs00,stride,c01,accept,14,,Exclusion justified (k+1 contact and swing in corrupted frames).,claude_ai_review_v1
+casia_c:110:fs00,stride,c02,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:110:fs00,stride,c03,accept,53,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:110:fs00,stride,c04,accept,68,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:110:fq01,event,e01,accept,,,"Unresolvable justified: front foot lands ~20-21 right as corruption starts (20 has edge noise, 21-25 corrupted).",claude_ai_review_v1
+casia_c:110:fq01,event,e02,accept,,,Unresolvable justified: toe-off falls in corrupted frames 21-25; rear leg already off by 26.,claude_ai_review_v1
+casia_c:110:fq01,event,e03,accept,34,,"Front heel reaches ground 34, foot flattens 35-36.",claude_ai_review_v1
+casia_c:110:fq01,event,e04,accept,38,,"Rear foot on ground 37, lifted 38.",claude_ai_review_v1
+casia_c:110:fq01,event,e05,accept,47,,Front foot reaches ground 46-47.,claude_ai_review_v1
+casia_c:110:fq01,event,e06,accept,51,,"Rear foot on ground 50, lifted 51.",claude_ai_review_v1
+casia_c:110:fq01,event,e07,accept,59,,"Front heel down 59, foot flat by 60-61.",claude_ai_review_v1
+casia_c:110:fq01,event,e08,accept,63,,"Rear foot on ground 62, lifted 63.",claude_ai_review_v1
+casia_c:110:fq01,sequence,-,flag,,,"Corruption spans 21-25 (frame 25 partly noisy, 20 has edge noise), slightly wider than the 21-24 in quality_notes; no annotated event is affected.",claude_ai_review_v1
+casia_c:110:fq01,stride,c01,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:110:fq01,stride,c02,accept,34,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:110:fb00,event,e01,accept,,,Unresolvable justified: front foot still toe-up at 21; landing falls in corrupted 22+.,claude_ai_review_v1
+casia_c:110:fb00,event,e02,accept,,,Unresolvable justified: toe-off inside corrupted frames 22-35.,claude_ai_review_v1
+casia_c:110:fb00,event,e03,flag,37,,"Front foot is already flat on the ground and at its forward plateau at 36 (legs readable despite edge noise), so landing is <=36 and may fall in corrupted 35. 37 looks like the first clean frame, not the contact; consider unresolvable (window 35-37).",claude_ai_review_v1
+casia_c:110:fb00,event,e04,accept,39,,"Rear toe at ground 38-39, lifted 40; within 1.",claude_ai_review_v1
+casia_c:110:fb00,event,e05,accept,49,,Front foot stops advancing 49.,claude_ai_review_v1
+casia_c:110:fb00,event,e06,accept,53,,"Rear foot on ground 52, lifted 53.",claude_ai_review_v1
+casia_c:110:fb00,event,e07,accept,63,,Front foot stops advancing 63.,claude_ai_review_v1
+casia_c:110:fb00,event,e08,accept,67,,Rear toe at ground strip 67-68; within 1.,claude_ai_review_v1
+casia_c:110:fb00,event,e09,accept,77,,Front foot stops advancing 77.,claude_ai_review_v1
+casia_c:110:fb00,event,e10,accept,83,,Rear toe leaves 82-83.,claude_ai_review_v1
+casia_c:110:fb00,sequence,-,flag,,,Frame 36 also carries corruption noise (beyond 22-35 in quality_notes); only the legs are readable.,claude_ai_review_v1
+casia_c:110:fb00,stride,c01,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:110:fb00,stride,c02,flag,37,,"Frames match Track S, but IC = flagged e03 (contact may be in corrupted frames).",claude_ai_review_v1
+casia_c:110:fb00,stride,c03,accept,49,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:115:fn00,event,e01,accept,,,Unresolvable justified: frames 18-26 corrupted (18 and 26 partially).,claude_ai_review_v1
+casia_c:115:fn00,event,e02,accept,,,Unresolvable justified: inside corrupted frames; rear leg already in swing by 26-27.,claude_ai_review_v1
+casia_c:115:fn00,event,e03,accept,35,,"Front foot toe-up 34-35, heel down 35-36.",claude_ai_review_v1
+casia_c:115:fn00,event,e04,accept,40,,Rear toe leaves 39-40.,claude_ai_review_v1
+casia_c:115:fn00,event,e05,accept,48,,"Front foot plateau 47-48, flat by 49.",claude_ai_review_v1
+casia_c:115:fn00,event,e06,accept,51,,"Rear toe at ground 50, lifted 51.",claude_ai_review_v1
+casia_c:115:fn00,event,e07,accept,61,,Front foot stops advancing 61.,claude_ai_review_v1
+casia_c:115:fn00,event,e08,accept,64,,Rear foot lifted at 64.,claude_ai_review_v1
+casia_c:115:fn00,sequence,-,flag,,,Frames 18 and 26 also carry corruption noise (quality_notes says 19-25); no annotated event is affected.,claude_ai_review_v1
+casia_c:115:fn00,stride,c01,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:115:fn00,stride,c02,accept,35,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:115:fs01,event,e01,accept,17,,"Front foot at ground, stops advancing 17.",claude_ai_review_v1
+casia_c:115:fs01,event,e02,accept,22,,"Rear toe at ground 20-21, lifted 22.",claude_ai_review_v1
+casia_c:115:fs01,event,e03,accept,,,Unresolvable justified: frames 23-35 corrupted.,claude_ai_review_v1
+casia_c:115:fs01,event,e04,accept,,,"Unresolvable justified: rear toe near ground in noisy 34-35, off by 36-37.",claude_ai_review_v1
+casia_c:115:fs01,event,e05,accept,47,,Front foot plateau 47-48.,claude_ai_review_v1
+casia_c:115:fs01,event,e06,accept,52,,"Rear toe at ground 51, lifted 52.",claude_ai_review_v1
+casia_c:115:fs01,event,e07,accept,62,,Front foot plateau 61-62.,claude_ai_review_v1
+casia_c:115:fs01,event,e08,accept,65,,Rear foot leaves 64-65.,claude_ai_review_v1
+casia_c:115:fs01,event,e09,accept,76,,Front foot plateau 76-77.,claude_ai_review_v1
+casia_c:115:fs01,event,e10,accept,80,,Rear foot leaves 79-80.,claude_ai_review_v1
+casia_c:115:fs01,event,e11,accept,90,,"Front shoe at ground level 89, toe-up 90; contact 89-90.",claude_ai_review_v1
+casia_c:115:fs01,event,e12,accept,94,,"Rear toe near ground 93, lifted 94.",claude_ai_review_v1
+casia_c:115:fs01,stride,c01,accept,17,,Exclusion justified (k+1 contact and swing in corrupted frames).,claude_ai_review_v1
+casia_c:115:fs01,stride,c02,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:115:fs01,stride,c03,accept,47,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:115:fs01,stride,c04,accept,62,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:115:fq00,event,e01,flag,19,,"Front foot is still advancing at ground level 16-19; frame 19 already carries corruption speckle around the legs and 20-24 are corrupted, so the end of forward travel (contact) cannot be confirmed. Plausible 19-20; consider unresolvable.",claude_ai_review_v1
+casia_c:115:fq00,event,e02,accept,,,Unresolvable justified: toe-off in corrupted frames 20-24.,claude_ai_review_v1
+casia_c:115:fq00,event,e03,accept,31,,Front foot reaches ground and stops advancing 31-32.,claude_ai_review_v1
+casia_c:115:fq00,event,e04,accept,35,,"Rear foot on ground 34, lifted 35.",claude_ai_review_v1
+casia_c:115:fq00,event,e05,accept,44,,Front foot plateau 44-45.,claude_ai_review_v1
+casia_c:115:fq00,event,e06,accept,47,,Rear foot lifted 47.,claude_ai_review_v1
+casia_c:115:fq00,event,e07,accept,56,,"Front heel down ~56-57, foot flat 58.",claude_ai_review_v1
+casia_c:115:fq00,event,e08,accept,58,,"Rear toe at ground 58, lifted 59; within 1.",claude_ai_review_v1
+casia_c:115:fq00,stride,c01,accept,19,,Exclusion justified (MS in corrupted frames).,claude_ai_review_v1
+casia_c:115:fq00,stride,c02,accept,31,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:115:fb00,event,e01,accept,20,,"Front foot at ground, stops advancing 20-21 (frames clean; corruption starts 22).",claude_ai_review_v1
+casia_c:115:fb00,event,e02,accept,,,Unresolvable justified: toe-off inside corrupted frames 22-30.,claude_ai_review_v1
+casia_c:115:fb00,event,e03,accept,33,,Front foot reaches ground 33 (31 still has corruption speckle).,claude_ai_review_v1
+casia_c:115:fb00,event,e04,accept,37,,"Rear toe at ground 36, lifted 37.",claude_ai_review_v1
+casia_c:115:fb00,event,e05,accept,46,,Front foot plateau 46-47.,claude_ai_review_v1
+casia_c:115:fb00,event,e06,accept,49,,"Rear toe at ground 48, lifted 49.",claude_ai_review_v1
+casia_c:115:fb00,event,e07,accept,59,,Front foot plateau 59-60.,claude_ai_review_v1
+casia_c:115:fb00,event,e08,accept,62,,"Rear toe at ground 61, lifted 62.",claude_ai_review_v1
+casia_c:115:fb00,stride,c01,accept,20,,Exclusion justified (MS in corrupted frames).,claude_ai_review_v1
+casia_c:115:fb00,stride,c02,accept,33,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:124:fn03,event,e01,accept,,,Unresolvable justified: frames 17-27 corrupted.,claude_ai_review_v1
+casia_c:124:fn03,event,e02,accept,,,Unresolvable justified: frames 17-27 corrupted.,claude_ai_review_v1
+casia_c:124:fn03,event,e03,accept,33,,"Front foot toe-up 31-32, at ground 33; detached shadow fragments 29-30 make it low confidence.",claude_ai_review_v1
+casia_c:124:fn03,event,e04,accept,35,,Rear foot leaves 34-35.,claude_ai_review_v1
+casia_c:124:fn03,event,e05,accept,,,"Unresolvable reasonable: front foot toe-up 44, lands ~45-46, rear foot reduced to fragments/shadow.",claude_ai_review_v1
+casia_c:124:fn03,event,e06,accept,46,,"Rear foot fragment at ground 45, leg clearly in swing 46; low confidence fair.",claude_ai_review_v1
+casia_c:124:fn03,event,e07,accept,58,,"Front foot in air at 57, near ground 58-59 (ground strip may be shadow).",claude_ai_review_v1
+casia_c:124:fn03,event,e08,accept,60,,Rear foot lifting 59-60.,claude_ai_review_v1
+casia_c:124:fn03,sequence,-,flag,,,"A contact around 69-70 (front foot at forward plateau 69-72, fragmented, floating above line) sits at the end of the evaluable range (<=70) with no row; probably deserves an unresolvable row.",claude_ai_review_v1
+casia_c:124:fn03,stride,c01,accept,,,"Exclusion justified (IC/MS corrupted, next contact unresolvable).",claude_ai_review_v1
+casia_c:124:fn03,stride,c02,accept,33,,Exclusion justified (k+1 contact unresolvable).,claude_ai_review_v1
+casia_c:124:fs00,event,e01,accept,,,Unresolvable justified: frames 21-36 corrupted.,claude_ai_review_v1
+casia_c:124:fs00,event,e02,accept,,,Unresolvable justified: frames 21-36 corrupted.,claude_ai_review_v1
+casia_c:124:fs00,event,e03,flag,38,,"Front foot is already on the ground and at its forward plateau at 36-37 (36 still corrupted, 37 has noise), so contact is <=37 and may fall inside the corrupted run. 38 looks like the first clean frame; consider unresolvable (window 35-38).",claude_ai_review_v1
+casia_c:124:fs00,event,e04,accept,43,,"Rear toe touching at 42, lifted 43.",claude_ai_review_v1
+casia_c:124:fs00,event,e05,accept,52,,Front foot stops advancing 52.,claude_ai_review_v1
+casia_c:124:fs00,event,e06,accept,55,,Rear foot lifted 55.,claude_ai_review_v1
+casia_c:124:fs00,event,e07,accept,67,,Front foot plateau 67-68.,claude_ai_review_v1
+casia_c:124:fs00,event,e08,accept,70,,"Rear toe at ground strip 69, lifted 70.",claude_ai_review_v1
+casia_c:124:fs00,event,e09,flag,82,,Front foot stops advancing ~80 but stays above rear-foot level until ~84-85; feet fragmented with shadow strips. Contact window ~81-85; ±1 not defensible.,claude_ai_review_v1
+casia_c:124:fs00,event,e10,accept,88,,"Rear foot on toe at 87, lifted 88.",claude_ai_review_v1
+casia_c:124:fs00,event,e11,accept,,,"Unresolvable justified: subject at sheet edge, front foot fragmented and floating 97-101.",claude_ai_review_v1
+casia_c:124:fs00,sequence,-,flag,,,Corruption extends to 36 with noise at 37 (quality_notes says 21-35).,claude_ai_review_v1
+casia_c:124:fs00,stride,c01,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:124:fs00,stride,c02,flag,38,,"Consistent with Track S, but IC = flagged e03 (contact may be inside corruption).",claude_ai_review_v1
+casia_c:124:fs00,stride,c03,flag,52,,"Consistent with Track S, but next IC = flagged e09.",claude_ai_review_v1
+casia_c:124:fs00,stride,c04,accept,67,,Exclusion justified (next contact unresolvable).,claude_ai_review_v1
+casia_c:124:fq01,event,e01,accept,,,Unresolvable justified: frames 15-25 corrupted.,claude_ai_review_v1
+casia_c:124:fq01,event,e02,accept,,,Unresolvable justified: frames 15-25 corrupted (26 still noisy).,claude_ai_review_v1
+casia_c:124:fq01,event,e03,accept,34,,"Front heel down 34, foot flat 35.",claude_ai_review_v1
+casia_c:124:fq01,event,e04,accept,39,,"Rear toe near ground strip 37-38, clearly off 39; shadow strips make 38-39 ambiguous; low confidence fair.",claude_ai_review_v1
+casia_c:124:fq01,event,e05,accept,46,,"Front foot toe-up 45-46, heel down 46-47.",claude_ai_review_v1
+casia_c:124:fq01,event,e06,accept,48,,Rear foot fragment off ground by 48-49.,claude_ai_review_v1
+casia_c:124:fq01,event,e07,accept,59,,Front foot plateau 59-60.,claude_ai_review_v1
+casia_c:124:fq01,event,e08,accept,62,,"Rear toe on shadow strip 62, lifted 63; within 1.",claude_ai_review_v1
+casia_c:124:fq01,stride,c01,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:124:fq01,stride,c02,accept,34,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:124:fb00,event,e01,accept,,,Unresolvable justified: frames 16-31 corrupted.,claude_ai_review_v1
+casia_c:124:fb00,event,e02,accept,,,"Unresolvable justified: frames 16-31 corrupted, 32-33 noisy.",claude_ai_review_v1
+casia_c:124:fb00,event,e03,accept,39,,"Front foot reaches plateau and ground 38-39; rear foot only a ground fragment (possibly shadow), so low confidence.",claude_ai_review_v1
+casia_c:124:fb00,event,e04,accept,42,,Rear leg piece lifted at 42.,claude_ai_review_v1
+casia_c:124:fb00,event,e05,accept,52,,Front heel down 52-53.,claude_ai_review_v1
+casia_c:124:fb00,event,e06,accept,54,,Rear foot leaves 54-55.,claude_ai_review_v1
+casia_c:124:fb00,event,e07,accept,66,,"Front foot plateau 65-66, flat by 67-68.",claude_ai_review_v1
+casia_c:124:fb00,event,e08,accept,70,,"Rear toe on shadow strip 69-70, lifted 71; within 1.",claude_ai_review_v1
+casia_c:124:fb00,stride,c01,accept,,,Exclusion justified (IC and MS in corrupted frames).,claude_ai_review_v1
+casia_c:124:fb00,stride,c02,accept,39,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:129:fn03,event,e01,accept,21,,"Front foot at ground, stops advancing 21.",claude_ai_review_v1
+casia_c:129:fn03,event,e02,accept,25,,Rear foot leaves 24-25.,claude_ai_review_v1
+casia_c:129:fn03,event,e03,accept,34,,"Front foot toe-up in air 33, heel at ground strip 34, flat 35-36.",claude_ai_review_v1
+casia_c:129:fn03,event,e04,accept,36,,"Rear foot at ground 36, lifted 37; within 1.",claude_ai_review_v1
+casia_c:129:fn03,event,e05,accept,46,,"Front foot plateau 45-46, flat by 47.",claude_ai_review_v1
+casia_c:129:fn03,event,e06,accept,49,,"Rear foot at ground 48, lifted 49.",claude_ai_review_v1
+casia_c:129:fn03,event,e07,accept,59,,Front foot plateau 58-60.,claude_ai_review_v1
+casia_c:129:fn03,event,e08,accept,61,,"Rear toe on ground strip 60, lifted 61.",claude_ai_review_v1
+casia_c:129:fn03,stride,c01,accept,21,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:129:fn03,stride,c02,accept,34,,Frames match Track S; alternation intact.,claude_ai_review_v1
+casia_c:129:fs00,event,e01,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:129:fs00,event,e02,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:129:fs00,event,e03,accept,37,,contact at 37 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,event,e04,accept,41,,opposite_toe_off at 41 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,event,e05,accept,49,,contact at 49 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,event,e06,flag,56,,double support 49->56 is 7 frames; rear foot merged with ground strip 53-55 so toe-off may be earlier (~54-55); not resolvable to +-1,claude_ai_review_v1
+casia_c:129:fs00,event,e07,accept,62,,contact at 62 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,event,e08,accept,67,,opposite_toe_off at 67 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,event,e09,accept,77,,contact at 77 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,event,e10,accept,81,,opposite_toe_off at 81 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fs00,stride,c01,accept,,,exclusion justified: unresolved events in stride (contacts ~20 and toe-off ~27),claude_ai_review_v1
+casia_c:129:fs00,stride,c02,accept,37,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:129:fs00,stride,c03,accept,49,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:129:fq01,event,e01,accept,20,,contact at 20 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,event,e02,accept,25,,opposite_toe_off at 25 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,event,e03,accept,31,,contact at 31 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,event,e04,accept,36,,opposite_toe_off at 36 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,event,e05,accept,44,,contact at 44 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,event,e06,accept,46,,opposite_toe_off at 46 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,event,e07,accept,55,,contact at 55 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fq01,stride,c01,accept,20,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:129:fq01,stride,c02,accept,31,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:129:fb01,event,e01,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:129:fb01,event,e02,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:129:fb01,event,e03,accept,32,,contact at 32 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fb01,event,e04,flag,36,,rear foot merged with ground strip in 36-37; first clearly lifted rear foot ~38; may be 1-2 frames late,claude_ai_review_v1
+casia_c:129:fb01,event,e05,flag,45,,front foot appears to reach the ground strip by 43-44 (relative position stable from 43); contact may be 1-2 frames earlier,claude_ai_review_v1
+casia_c:129:fb01,event,e06,accept,49,,opposite_toe_off at 49 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fb01,event,e07,accept,58,,contact at 58 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fb01,event,e08,accept,61,,opposite_toe_off at 61 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:129:fb01,stride,c01,accept,,,exclusion justified: unresolved contact ~21 and toe-off ~25 inside stride,claude_ai_review_v1
+casia_c:129:fb01,stride,c02,accept,32,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fn02,event,e01,accept,17,,contact at 17 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e02,accept,21,,opposite_toe_off at 21 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e03,accept,30,,contact at 30 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e04,accept,35,,opposite_toe_off at 35 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e05,accept,43,,contact at 43 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e06,accept,47,,opposite_toe_off at 47 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e07,accept,56,,contact at 56 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e08,accept,59,,opposite_toe_off at 59 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e09,accept,69,,contact at 69 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,event,e10,accept,72,,opposite_toe_off at 72 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fn02,stride,c01,accept,17,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fn02,stride,c02,accept,30,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fn02,stride,c03,accept,43,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fs01,event,e01,accept,12,,contact at 12 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e02,accept,16,,opposite_toe_off at 16 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e03,accept,25,,contact at 25 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e04,accept,30,,opposite_toe_off at 30 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e05,accept,38,,contact at 38 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e06,accept,42,,opposite_toe_off at 42 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e07,accept,52,,contact at 52 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e08,flag,55,,rear foot already looks lifted in 53-54 (only 1-2 frames after contact 52); toe-off may be 53-54,claude_ai_review_v1
+casia_c:131:fs01,event,e09,accept,65,,contact at 65 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,event,e10,accept,68,,opposite_toe_off at 68 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fs01,stride,c01,accept,12,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fs01,stride,c02,accept,25,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fs01,stride,c03,accept,38,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fq00,event,e01,accept,16,,contact at 16 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,event,e02,accept,21,,opposite_toe_off at 21 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,event,e03,accept,29,,contact at 29 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,event,e04,accept,33,,opposite_toe_off at 33 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,event,e05,accept,42,,contact at 42 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,event,e06,accept,45,,opposite_toe_off at 45 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,event,e07,flag,54,,"front foot position stable from ~52; contact may be 52-53 (double support to 56 would then be 3-4 frames, matching earlier steps)",claude_ai_review_v1
+casia_c:131:fq00,event,e08,accept,56,,opposite_toe_off at 56 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fq00,stride,c01,accept,16,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fq00,stride,c02,accept,29,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fb01,event,e01,accept,16,,contact at 16 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e02,accept,20,,opposite_toe_off at 20 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e03,accept,30,,contact at 30 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e04,accept,34,,opposite_toe_off at 34 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e05,accept,43,,contact at 43 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e06,accept,46,,opposite_toe_off at 46 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e07,accept,55,,contact at 55 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e08,accept,57,,opposite_toe_off at 57 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e09,accept,68,,contact at 68 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,event,e10,accept,70,,opposite_toe_off at 70 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:131:fb01,stride,c01,accept,16,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fb01,stride,c02,accept,30,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:131:fb01,stride,c03,accept,43,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fn03,event,e01,accept,22,,contact at 22 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e02,accept,25,,opposite_toe_off at 25 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e03,accept,36,,contact at 36 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e04,accept,39,,opposite_toe_off at 39 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e05,accept,50,,contact at 50 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e06,accept,53,,opposite_toe_off at 53 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e07,accept,63,,contact at 63 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fn03,event,e08,flag,67,,rear foot still appears grounded on ground strip in 67-68; first clear lift ~69,claude_ai_review_v1
+casia_c:136:fn03,stride,c01,accept,22,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fn03,stride,c02,accept,36,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fs00,event,e01,accept,23,,contact at 23 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e02,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:136:fs00,event,e03,accept,39,,contact at 39 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e04,accept,42,,opposite_toe_off at 42 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e05,accept,54,,contact at 54 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e06,accept,57,,opposite_toe_off at 57 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e07,accept,69,,contact at 69 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e08,flag,73,,rear foot still touches ground strip in 73-75; first clear lift ~76,claude_ai_review_v1
+casia_c:136:fs00,event,e09,accept,85,,contact at 85 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e10,accept,90,,opposite_toe_off at 90 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,event,e11,accept,99,,contact at 99 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fs00,stride,c01,accept,,,exclusion justified: unresolved toe-off ~27 inside stride from contact 23,claude_ai_review_v1
+casia_c:136:fs00,stride,c02,accept,39,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fs00,stride,c03,accept,54,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fs00,stride,c04,accept,69,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fq01,event,e01,accept,18,,contact at 18 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e02,accept,21,,opposite_toe_off at 21 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e03,accept,32,,contact at 32 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e04,accept,35,,opposite_toe_off at 35 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e05,accept,45,,contact at 45 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e06,accept,47,,opposite_toe_off at 47 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e07,accept,58,,contact at 58 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,event,e08,accept,62,,opposite_toe_off at 62 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fq01,stride,c01,accept,18,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fq01,stride,c02,accept,32,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fb01,event,e01,accept,22,,contact at 22 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e02,accept,26,,opposite_toe_off at 26 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e03,accept,36,,contact at 36 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e04,accept,39,,opposite_toe_off at 39 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e05,flag,48,,front foot looks grounded by 46-47; contact may be 1-2 frames earlier (48->50 double support only 2 frames),claude_ai_review_v1
+casia_c:136:fb01,event,e06,accept,50,,opposite_toe_off at 50 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e07,accept,62,,contact at 62 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e08,accept,67,,opposite_toe_off at 67 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,event,e09,accept,75,,contact at 75 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:136:fb01,stride,c01,accept,22,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fb01,stride,c02,accept,36,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:136:fb01,stride,c03,accept,48,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fn02,event,e01,accept,17,,contact at 17 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e02,accept,21,,opposite_toe_off at 21 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e03,accept,29,,contact at 29 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e04,accept,34,,opposite_toe_off at 34 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e05,accept,41,,contact at 41 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e06,accept,46,,opposite_toe_off at 46 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e07,flag,54,,feet are blobs from 35 on; front-foot position stable from ~52; contact may be 52-53,claude_ai_review_v1
+casia_c:142:fn02,event,e08,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:142:fn02,event,e09,accept,66,,contact at 66 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fn02,event,e10,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:142:fn02,stride,c01,accept,17,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fn02,stride,c02,accept,29,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fn02,stride,c03,accept,,,exclusion justified: unresolved toe-off ~58 inside stride 41-66,claude_ai_review_v1
+casia_c:142:fs00,event,e01,accept,20,,opposite_toe_off at 20 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e02,accept,30,,contact at 30 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e03,accept,34,,opposite_toe_off at 34 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e04,accept,45,,contact at 45 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e05,accept,50,,opposite_toe_off at 50 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e06,accept,61,,contact at 61 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e07,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:142:fs00,event,e08,accept,77,,contact at 77 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e09,accept,81,,opposite_toe_off at 81 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e10,accept,92,,contact at 92 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fs00,event,e11,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:142:fs00,stride,c01,accept,30,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fs00,stride,c02,accept,,,exclusion justified: unresolved toe-off ~65 inside stride 45-77,claude_ai_review_v1
+casia_c:142:fs00,stride,c03,accept,,,exclusion justified: unresolved toe-off ~65 inside stride 61-92,claude_ai_review_v1
+casia_c:142:fq00,event,e01,accept,15,,contact at 15 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,event,e02,accept,20,,opposite_toe_off at 20 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,event,e03,accept,27,,contact at 27 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,event,e04,accept,30,,opposite_toe_off at 30 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,event,e05,flag,38,,feet fragmented into blobs; front-foot position stable from ~36; contact may be 36-37,claude_ai_review_v1
+casia_c:142:fq00,event,e06,accept,41,,opposite_toe_off at 41 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,event,e07,accept,49,,contact at 49 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,event,e08,accept,53,,opposite_toe_off at 53 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fq00,stride,c01,accept,15,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fq00,stride,c02,accept,27,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fb00,event,e01,accept,17,,contact at 17 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e02,accept,22,,opposite_toe_off at 22 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e03,accept,29,,contact at 29 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e04,accept,33,,opposite_toe_off at 33 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e05,accept,43,,contact at 43 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e06,accept,46,,opposite_toe_off at 46 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e07,accept,55,,contact at 55 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,event,e08,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:142:fb00,event,e09,accept,68,,contact at 68 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:142:fb00,stride,c01,accept,17,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fb00,stride,c02,accept,29,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:142:fb00,stride,c03,accept,,,exclusion justified: unresolved toe-off ~59 inside stride 43-68,claude_ai_review_v1
+casia_c:143:fn02,event,e01,accept,12,,contact at 12 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e02,accept,17,,opposite_toe_off at 17 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e03,accept,25,,contact at 25 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e04,accept,29,,opposite_toe_off at 29 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e05,accept,38,,contact at 38 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e06,accept,43,,opposite_toe_off at 43 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e07,accept,51,,contact at 51 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e08,accept,54,,opposite_toe_off at 54 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e09,accept,64,,contact at 64 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e10,accept,69,,opposite_toe_off at 69 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e11,accept,78,,contact at 78 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,event,e12,accept,81,,opposite_toe_off at 81 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fn02,stride,c01,accept,12,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fn02,stride,c02,accept,25,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fn02,stride,c03,accept,38,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fn02,stride,c04,accept,51,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fs00,event,e01,accept,19,,contact at 19 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e02,accept,22,,opposite_toe_off at 22 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e03,accept,32,,contact at 32 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e04,accept,35,,opposite_toe_off at 35 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e05,accept,46,,contact at 46 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e06,accept,50,,opposite_toe_off at 50 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e07,flag,60,,event sits on frame 60 which has segmentation noise (speckle over upper body); lower legs intact and front foot still raised in 59 so 60-61 plausible; human check,claude_ai_review_v1
+casia_c:143:fs00,event,e08,accept,64,,opposite_toe_off at 64 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e09,accept,73,,contact at 73 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e10,accept,77,,opposite_toe_off at 77 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e11,accept,87,,contact at 87 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,event,e12,accept,91,,opposite_toe_off at 91 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fs00,stride,c01,accept,19,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fs00,stride,c02,accept,32,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fs00,stride,c03,accept,46,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fs00,stride,c04,flag,60,,initial contact frame 60 is a segmentation-noise frame (see e07); frames otherwise consistent with Track S,claude_ai_review_v1
+casia_c:143:fq01,event,e01,accept,16,,contact at 16 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e02,accept,20,,opposite_toe_off at 20 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e03,accept,28,,contact at 28 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e04,accept,32,,opposite_toe_off at 32 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e05,accept,40,,contact at 40 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e06,accept,43,,opposite_toe_off at 43 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e07,accept,51,,contact at 51 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e08,accept,54,,opposite_toe_off at 54 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e09,accept,62,,contact at 62 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,event,e10,accept,65,,opposite_toe_off at 65 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fq01,stride,c01,accept,16,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fq01,stride,c02,accept,28,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fq01,stride,c03,accept,40,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fb00,event,e01,accept,15,,contact at 15 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e02,accept,19,,opposite_toe_off at 19 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e03,accept,27,,contact at 27 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e04,accept,32,,opposite_toe_off at 32 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e05,accept,41,,contact at 41 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e06,accept,45,,opposite_toe_off at 45 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e07,accept,54,,contact at 54 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e08,accept,57,,opposite_toe_off at 57 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e09,accept,66,,contact at 66 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e10,accept,70,,opposite_toe_off at 70 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e11,accept,79,,contact at 79 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,event,e12,accept,82,,opposite_toe_off at 82 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:143:fb00,stride,c01,accept,15,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fb00,stride,c02,accept,27,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fb00,stride,c03,accept,41,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:143:fb00,stride,c04,accept,54,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:152:fn01,event,e01,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fn01,event,e02,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fn01,event,e03,flag,33,,feet fragmented into blobs 30-34 with ground strip; front-foot blob stable from ~31; contact somewhere 31-33,claude_ai_review_v1
+casia_c:152:fn01,event,e04,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fn01,event,e05,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fn01,event,e06,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fn01,event,e07,accept,61,,contact at 61 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fn01,event,e08,accept,65,,opposite_toe_off at 65 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fn01,event,e09,accept,75,,contact at 75 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fn01,event,e10,accept,78,,opposite_toe_off at 78 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fn01,stride,c01,accept,,,exclusion justified: unresolved events inside stride from contact ~20,claude_ai_review_v1
+casia_c:152:fn01,stride,c02,accept,,,exclusion justified: unresolved toe-offs inside stride 33-61,claude_ai_review_v1
+casia_c:152:fn01,stride,c03,accept,,,exclusion justified: unresolved contact ~46 and toe-off ~50 inside stride,claude_ai_review_v1
+casia_c:152:fs00,event,e01,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fs00,event,e02,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fs00,event,e03,accept,34,,contact at 34 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e04,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fs00,event,e05,accept,49,,contact at 49 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e06,accept,54,,opposite_toe_off at 54 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e07,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fs00,event,e08,accept,70,,opposite_toe_off at 70 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e09,accept,81,,contact at 81 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e10,accept,85,,opposite_toe_off at 85 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e11,accept,97,,contact at 97 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fs00,event,e12,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fs00,stride,c01,accept,,,exclusion justified: unresolved events inside stride from contact ~22,claude_ai_review_v1
+casia_c:152:fs00,stride,c02,accept,,,exclusion justified: unresolved toe-off ~38 inside stride 34-49+,claude_ai_review_v1
+casia_c:152:fs00,stride,c03,accept,,,exclusion justified: unresolved contact ~63 inside stride 49-81,claude_ai_review_v1
+casia_c:152:fs00,stride,c04,accept,,,exclusion justified: stride from contact ~63 starts on unresolved contact,claude_ai_review_v1
+casia_c:152:fq01,event,e01,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fq01,event,e02,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fq01,event,e03,accept,29,,contact at 29 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fq01,event,e04,accept,31,,opposite_toe_off at 31 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fq01,event,e05,accept,41,,contact at 41 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fq01,event,e06,accept,43,,opposite_toe_off at 43 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fq01,event,e07,accept,53,,contact at 53 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fq01,event,e08,accept,57,,opposite_toe_off at 57 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fq01,stride,c01,accept,,,exclusion justified: unresolved contact ~19 and toe-off ~22 inside stride,claude_ai_review_v1
+casia_c:152:fq01,stride,c02,accept,29,,frames match Track S events and alternation; TS=contact k+1 (low) is acceptable,claude_ai_review_v1
+casia_c:152:fb00,event,e01,flag,34,,legs fragmented 31-37; front shank fragment is lifted in 35 and lands ~36-37; grounded fragment in 34 may not be the leading foot; possible contact 36-37 (double support to 40 then 3-4 frames),claude_ai_review_v1
+casia_c:152:fb00,event,e02,accept,40,,opposite_toe_off at 40 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fb00,event,e03,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fb00,event,e04,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fb00,event,e05,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fb00,event,e06,accept,,,"unresolvable confirmed; frames in window fragmented/corrupted, window plausible",claude_ai_review_v1
+casia_c:152:fb00,event,e07,accept,76,,contact at 76 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fb00,event,e08,accept,80,,opposite_toe_off at 80 agrees within +-1 on clean sheet,claude_ai_review_v1
+casia_c:152:fb00,stride,c01,accept,,,exclusion justified: unresolved contact ~48 inside stride from contact 34,claude_ai_review_v1
+casia_c:152:fb00,stride,c02,accept,,,exclusion justified: stride from contact ~48 starts on unresolved contact,claude_ai_review_v1
+casia_c:152:fb00,stride,c03,accept,,,exclusion justified: stride from contact ~62 starts on unresolved contact (segmentation failure),claude_ai_review_v1
