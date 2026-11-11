@@ -28,6 +28,23 @@ For each frame (foreground = nonzero pixels, as in v0.1):
 6. **Steps.** Consecutive contacts with a step length between 0.5*m* and 1.6*m*. Only frames inside complete steps are labeled; edge frames are excluded with a reason.
 7. **Confidence.** `medium` when both bounding contacts and the toe-off were detected from the ground band. Otherwise `low`.
 
+## Amendment A1 (2026-11-11, before any held-out comparison)
+
+**Basis:** the frozen rule 3 was checked on 24 development sequences (6 per family, seed 7). No held-out frames, reference events, or v0.1 comparison results were used. On those sequences, only 35% of steps had a valid double-support run: the swinging foot often passes inside the 4% ground band, so "two feet in the band" lasts too long.
+
+**Change to rule 3: feet must be planted, not just low.**
+- The ground band widens to 6% of median body height; the gap stays at 4%.
+- A foot run counts only when it is **planted**. Its best-overlapping run in the next frame (the previous frame for the last frame) must overlap it by at least half of the smaller width, and its center must move at most max(2 px, 3% of median body height).
+- *n_t* = number of planted feet.
+
+**Effect on the development sequences:**
+- Medium-confidence steps: 35% → 65%.
+- Double-support fraction per family: 0.14–0.25.
+
+Visual checks on development sheets placed contacts at the front foot's landing and toe-offs at the rear foot's lift. A first version without the movement limit placed contacts too early, where the swinging foot first separates after the legs cross; the movement limit was added for that reason.
+
+Rules 1, 2 and 4–7, and every validation target below, are unchanged.
+
 ## Pre-registered validation (run once on the held-out reference)
 
 Reference: `annotations/validation/v1/results/reference_events.csv`. It is AI-assisted, and `casia_c:001:fn03` is excluded. Matching uses the same one-to-one procedure and 2,000 subject-cluster bootstrap resamples as the v0.1 comparison. Reference frames outside v0.2's labeled region count against v0.2.
