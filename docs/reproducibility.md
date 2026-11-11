@@ -122,7 +122,7 @@ The untouched test partition requires explicit acknowledgement:
 gait-phase train --manifest data/manifests/generated/casia_a_c_frozen.csv --model tcn --evaluation-split test --allow-test --fixed-training-epochs --epochs 5 --pretrained
 ```
 
-Every run receives a unique directory under `artifacts/runs/` containing configuration, environment, checkpoint, learning curves where applicable, predictions, and metrics. Generate manuscript evidence only from saved predictions:
+Every run receives a unique directory under `artifacts/runs/` containing configuration, environment, checkpoint, learning curves where applicable, predictions, and metrics. Generate summary evidence only from saved predictions:
 
 ```powershell
 gait-phase evaluate artifacts/runs/<run>/predictions.csv

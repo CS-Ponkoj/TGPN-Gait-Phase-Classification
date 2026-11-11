@@ -1,4 +1,4 @@
-"""Generate traceable conference-paper tables and figures from predictions."""
+"""Generate traceable summary tables and figures from predictions."""
 
 from __future__ import annotations
 

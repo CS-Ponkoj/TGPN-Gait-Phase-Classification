@@ -30,8 +30,8 @@ No dataset, model, notebook, script, paper, presentation, or reference file was 
 | Legacy labels | `data\processed\gait_events\legacy` | Earlier partial labeled collection. |
 | Standalone checkpoint | `artifacts\models\standalone` | Root InceptionV3 HDF5 checkpoint. |
 | Historical root notebook | `notebooks\legacy` | Duplicate notebook formerly stored at the workspace root. |
-| Manuscript | `docs\paper` | Current gait classification manuscript. |
-| Presentation | `docs\presentations` | Historical project presentation. |
+| Manuscript | `docs\paper` | Manuscript (removed from the public repository on 2026-11-11). |
+| Presentation | `docs\presentations` | Presentation (removed from the public repository on 2026-11-11). |
 | References | `docs\references\gait` | Supporting gait research papers. |
 | Documentation assets | `docs\assets` | Gait-cycle and reference visuals. |
 | Notes | `docs\notes` | Dataset and model links. |

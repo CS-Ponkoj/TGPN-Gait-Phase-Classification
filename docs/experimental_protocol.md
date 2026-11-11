@@ -41,4 +41,4 @@ Accuracy is secondary and may not be used alone to support a conclusion. Results
 
 ## Claim gate
 
-The paper may claim improved classification only when the temporal model's primary-metric difference over the strongest baseline has a 95% interval above zero and the direction remains consistent in per-dataset results. Otherwise, report a negative result or frame the contribution as a reproducible annotation/benchmark study.
+Results may claim improved classification only when the temporal model's primary-metric difference over the strongest baseline has a 95% interval above zero and the direction remains consistent in per-dataset results. Otherwise, report a negative result or frame the contribution as a reproducible annotation/benchmark study.

@@ -2,13 +2,13 @@
 
 Research project investigating temporal modeling for gait phase classification from silhouette sequences, with an implemented Python codebase for data preparation, training, evaluation, and reproducible analysis.
 
-The study examines how temporal models reproduce four operational gait states and how the origin of those labels affects the interpretation of model performance. The study connects model comparisons with supervision provenance, subject-independent evaluation, and boundary-event analysis.
+The study examines how temporal models reproduce four operational gait states and how the origin of those labels affects the interpretation of model performance. It connects model comparisons with supervision provenance, subject-independent evaluation, and boundary-event analysis.
 
 ## Research overview
 
 Automatically labeling gait sequences makes large-scale model development possible, but agreement with a labeling rule does not establish agreement with physical gait phases. This research studies that distinction using CASIA C thermal silhouettes and deterministic targets derived from silhouette-spread intervals.
 
-The paper addresses three questions:
+The research addresses three questions:
 
 1. How well do visual models reproduce the operational targets for unseen subjects?
 2. What information do neighboring frames and their temporal order contribute?
@@ -43,11 +43,11 @@ Implementation details and training settings are documented in the [TGPN guide](
 
 The study compares temporal and single-frame models under subject-independent evaluation, with controlled experiments examining neighboring-frame information and temporal order. Evaluation considers subject-level classification, boundary timing, and the relationship between supervision provenance and model predictions.
 
-The codebase supports development folds, held-out evaluation safeguards, subject-level metrics, bootstrap uncertainty estimates, and generation of manuscript tables and figures from saved predictions. The [development run registry](configs/development_runs_v1.yaml) records the experiment organization. Trained weights, predictions, and generated evidence remain local and are not included in a standard clone.
+The codebase supports development folds, held-out evaluation safeguards, subject-level metrics, bootstrap uncertainty estimates, and generation of summary tables and figures from saved predictions. The [development run registry](configs/development_runs_v1.yaml) records the experiment organization. Trained weights, predictions, and generated evidence remain local and are not included in a standard clone.
 
 ## Data and evaluation scope
 
-The paper focuses on **CASIA C thermal silhouette sequences** across normal, slow, fast, and bag-carrying walking conditions. The repository also preserves an earlier CASIA A curated subset and historical single-frame experiments. Those materials provide research history and are separate from the paper's four-state CASIA C analysis. OU-ISIR is excluded from this study.
+The study focuses on **CASIA C thermal silhouette sequences** across normal, slow, fast, and bag-carrying walking conditions. The repository also preserves an earlier CASIA A curated subset and historical single-frame experiments. Those materials provide research history and are separate from the four-state CASIA C analysis. OU-ISIR is excluded from this study.
 
 Subject partitions separate development and held-out evaluation. Development launchers do not open the test partition. Final neural evaluation requires explicit test acknowledgement and a fixed training duration selected from development results; test data is not used for early stopping or checkpoint selection.
 
@@ -121,16 +121,15 @@ Tests cover configuration, manifests, annotations, splitting, prepared data, mod
 
 | Path | Purpose |
 | --- | --- |
-| [src/gait_phase/](src/gait_phase/) | Research pipeline, models, training, evaluation, and paper-asset generation |
+| [src/gait_phase/](src/gait_phase/) | Research pipeline, models, training, evaluation, and summary-asset generation |
 | [configs/](configs/) | Study settings and registered development experiments |
 | [scripts/](scripts/) | Training launchers, environment setup, and annotation audit utilities |
 | [tests/](tests/) | Automated implementation checks |
 | [docs/](docs/) | Method, annotation, data, and reproduction documentation |
-| [docs/paper/](docs/paper/) | Earlier manuscript and paper outline |
 | [annotations/](annotations/) | Annotation protocols and local release organization |
 | [data/](data/) | Local source data, manifests, and prepared datasets |
 | [artifacts/](artifacts/) | Local experiment outputs and generated evidence |
 | [inventory/](inventory/) | Preserved data-lineage and inventory records |
 | [legacy/](legacy/) | Original single-frame research code and historical experiments |
 
-The earlier manuscript in `docs/paper/` describes the initial ResNet152V2/InceptionV3 study. The research framing here follows the revised temporal-modeling manuscript. Some dated documentation describes earlier stages of the work; consult the current code, study configuration, and run registry for implementation details.
+The initial study used single-frame ResNet152V2/InceptionV3 models; the framing here follows the temporal-modeling study. Some dated documentation describes earlier stages of the work; consult the current code, study configuration, and run registry for implementation details.
