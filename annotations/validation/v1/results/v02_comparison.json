@@ -1,0 +1,139 @@
+{
+  "targets": {
+    "E1_contact_f1_tau1_lower": 0.8,
+    "E2_toe_off_f1_tau1_lower": 0.7,
+    "E3_kappa_difference_lower": 0.0
+  },
+  "contact_events": {
+    "tolerance_0": {
+      "f1": {
+        "estimate": 0.31385281385281383,
+        "lower": 0.24943297685206806,
+        "upper": 0.37596541087581875,
+        "subjects": 29
+      },
+      "matched": 145,
+      "reference_events": 472,
+      "predicted_events": 452
+    },
+    "tolerance_1": {
+      "f1": {
+        "estimate": 0.7575757575757576,
+        "lower": 0.6740774279216512,
+        "upper": 0.830706139286581,
+        "subjects": 29
+      },
+      "matched": 350,
+      "reference_events": 472,
+      "predicted_events": 452
+    },
+    "tolerance_2": {
+      "f1": {
+        "estimate": 0.9177489177489178,
+        "lower": 0.8790927921289011,
+        "upper": 0.951635141761126,
+        "subjects": 29
+      },
+      "matched": 424,
+      "reference_events": 472,
+      "predicted_events": 452
+    },
+    "signed_offset_nearest_within_2": {
+      "mean": 0.49764150943396224,
+      "counts": {
+        "-2": 5,
+        "-1": 61,
+        "0": 145,
+        "1": 144,
+        "2": 69
+      }
+    }
+  },
+  "toe_off_events": {
+    "tolerance_0": {
+      "f1": {
+        "estimate": 0.2126514131897712,
+        "lower": 0.1615643669751492,
+        "upper": 0.26376603917508923,
+        "subjects": 29
+      },
+      "matched": 79,
+      "reference_events": 452,
+      "predicted_events": 291
+    },
+    "tolerance_1": {
+      "f1": {
+        "estimate": 0.5114401076716016,
+        "lower": 0.4159738271843955,
+        "upper": 0.6005632341465772,
+        "subjects": 29
+      },
+      "matched": 190,
+      "reference_events": 452,
+      "predicted_events": 291
+    },
+    "tolerance_2": {
+      "f1": {
+        "estimate": 0.6541049798115747,
+        "lower": 0.5784848522493872,
+        "upper": 0.7260483923563555,
+        "subjects": 29
+      },
+      "matched": 243,
+      "reference_events": 452,
+      "predicted_events": 291
+    },
+    "signed_offset_nearest_within_2": {
+      "mean": -0.6954732510288066,
+      "counts": {
+        "-2": 50,
+        "-1": 93,
+        "0": 79,
+        "1": 18,
+        "2": 3
+      }
+    }
+  },
+  "two_state": {
+    "frames": 4597,
+    "v02_kappa": {
+      "estimate": 0.5412865940688822,
+      "lower": 0.48612853784844534,
+      "upper": 0.5987748419044885,
+      "subjects": 29
+    },
+    "v01_kappa_same_frames": {
+      "estimate": 0.530479210478075,
+      "lower": 0.4962375417271994,
+      "upper": 0.5657152364212106,
+      "subjects": 29
+    },
+    "v02_minus_v01": {
+      "estimate": 0.01080738359080724,
+      "lower": -0.04995288276411611,
+      "upper": 0.06996588240676349,
+      "subjects": 29
+    },
+    "reference_double_support_fraction": 0.29388731781596694,
+    "v02_double_support_fraction": 0.16597781161627148,
+    "v01_p0_fraction": 0.15249075484011312
+  },
+  "descriptive": {
+    "step_ratio": {
+      "n": 333,
+      "median": 1.0,
+      "q25": 0.9285714285714286,
+      "q75": 1.0769230769230769
+    },
+    "reference_contacts_inside_v02_steps": {
+      "covered": 462,
+      "total": 472
+    },
+    "v02_medium_step_fraction": 0.6488372093023256
+  },
+  "verdict": {
+    "E1_met": false,
+    "E2_met": false,
+    "E3_met": false
+  }
+}

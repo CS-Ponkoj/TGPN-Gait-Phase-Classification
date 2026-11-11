@@ -1,0 +1,29 @@
+{
+  "annotation_version": "v0.2-step-events",
+  "status": "RULE_BASED_PROVISIONAL_NOT_GROUND_TRUTH",
+  "design": "docs/step_event_labels_v0.2.md",
+  "states": [
+    "double_support",
+    "early_single_support",
+    "late_single_support"
+  ],
+  "labeled_frames": 72036,
+  "eligible_casia_c_frames": 100330,
+  "unlabeled_eligible_frames": 28294,
+  "sequences_with_steps": 1530,
+  "steps": 5353,
+  "confidence_counts": {
+    "low": 25681,
+    "medium": 46355
+  },
+  "state_counts": {
+    "double_support": 12102,
+    "early_single_support": 30067,
+    "late_single_support": 29867
+  },
+  "split_counts": {
+    "development": 57371,
+    "test": 14665
+  },
+  "source_manifest_sha256": "8391b8e354c0022073733375f4820a82338b648a8483aef862ddcc6d3a1eb4c7"
+}
